@@ -1,0 +1,109 @@
+[29-Jul-2023 00:41:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/saragna-social-stream/inc/social-stream-shortcode.php on line 9
+[29-Jul-2023 00:41:57 UTC] PHP Stack trace:
+[29-Jul-2023 00:41:57 UTC] PHP   1. {main}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/admin-ajax.php:0
+[29-Jul-2023 00:41:57 UTC] PHP   2. do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/admin-ajax.php:188
+[29-Jul-2023 00:41:57 UTC] PHP   3. WP_Hook->do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/plugin.php:517
+[29-Jul-2023 00:41:57 UTC] PHP   4. WP_Hook->apply_filters() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:332
+[29-Jul-2023 00:41:57 UTC] PHP   5. call_user_func_array:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:41:57 UTC] PHP   6. Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:41:57 UTC] PHP   7. call_user_func:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175
+[29-Jul-2023 00:41:57 UTC] PHP   8. Elementor\Widgets_Manager->ajax_render_widget() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175
+[29-Jul-2023 00:41:57 UTC] PHP   9. Elementor\Core\DocumentTypes\Page->render_element() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/managers/widgets.php:445
+[29-Jul-2023 00:41:57 UTC] PHP  10. Elementor\Widget_Shortcode->render_content() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/base/document.php:292
+[29-Jul-2023 00:41:57 UTC] PHP  11. Elementor\Widget_Shortcode->render_by_mode() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/widget-base.php:609
+[29-Jul-2023 00:41:57 UTC] PHP  12. Elementor\Widget_Shortcode->render() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/controls-stack.php:2268
+[29-Jul-2023 00:41:57 UTC] PHP  13. do_shortcode() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/widgets/shortcode.php:130
+[29-Jul-2023 00:41:57 UTC] PHP  14. preg_replace_callback() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:227
+[29-Jul-2023 00:41:57 UTC] PHP  15. do_shortcode_tag() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:227
+[29-Jul-2023 00:41:57 UTC] PHP  16. call_user_func:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355
+[29-Jul-2023 00:41:57 UTC] PHP  17. sssw_grid_shortcode_data() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355
+[29-Jul-2023 00:41:57 UTC] PHP  18. count() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/saragna-social-stream/inc/social-stream-shortcode.php:9
+[29-Jul-2023 00:42:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/saragna-social-stream/inc/social-stream-shortcode.php on line 9
+[29-Jul-2023 00:42:06 UTC] PHP Stack trace:
+[29-Jul-2023 00:42:06 UTC] PHP   1. {main}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/post.php:0
+[29-Jul-2023 00:42:06 UTC] PHP   2. require_once() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/post.php:12
+[29-Jul-2023 00:42:06 UTC] PHP   3. do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/admin.php:419
+[29-Jul-2023 00:42:06 UTC] PHP   4. WP_Hook->do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/plugin.php:517
+[29-Jul-2023 00:42:06 UTC] PHP   5. WP_Hook->apply_filters() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:332
+[29-Jul-2023 00:42:06 UTC] PHP   6. call_user_func_array:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:42:06 UTC] PHP   7. Elementor\Core\Editor\Editor->init() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:42:06 UTC] PHP   8. Elementor\Core\Editor\Editor_Loader->print_root_template() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/editor/editor.php:162
+[29-Jul-2023 00:42:06 UTC] PHP   9. include() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/editor/editor-loader.php:135
+[29-Jul-2023 00:42:06 UTC] PHP  10. wp_head() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php:31
+[29-Jul-2023 00:42:06 UTC] PHP  11. do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/general-template.php:3049
+[29-Jul-2023 00:42:06 UTC] PHP  12. WP_Hook->do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/plugin.php:517
+[29-Jul-2023 00:42:06 UTC] PHP  13. WP_Hook->apply_filters() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:332
+[29-Jul-2023 00:42:06 UTC] PHP  14. call_user_func_array:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:42:06 UTC] PHP  15. wp_enqueue_scripts() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:42:06 UTC] PHP  16. do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/script-loader.php:2194
+[29-Jul-2023 00:42:06 UTC] PHP  17. WP_Hook->do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/plugin.php:517
+[29-Jul-2023 00:42:06 UTC] PHP  18. WP_Hook->apply_filters() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:332
+[29-Jul-2023 00:42:06 UTC] PHP  19. call_user_func_array:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:42:06 UTC] PHP  20. Elementor\Core\Editor\Editor->enqueue_scripts() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:42:06 UTC] PHP  21. Elementor\Core\Editor\Editor_Loader->print_client_env() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/editor/editor.php:357
+[29-Jul-2023 00:42:06 UTC] PHP  22. Elementor\Core\Editor\Config_Providers\Editor_V1_Config_Provider->get_client_env() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/editor/editor-loader.php:57
+[29-Jul-2023 00:42:06 UTC] PHP  23. Elementor\Core\Editor\Config_Providers\Editor_Common_Configs::get_client_env() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/editor/config-providers/editor-v1-config-provider.php:46
+[29-Jul-2023 00:42:06 UTC] PHP  24. Elementor\Core\Editor\Config_Providers\Editor_Common_Client_Env::get_client_env() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/editor/config-providers/editor-common-configs.php:169
+[29-Jul-2023 00:42:06 UTC] PHP  25. Elementor\Core\DocumentTypes\Page->get_config() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/editor/config-providers/editor-common-client-env.php:34
+[29-Jul-2023 00:42:06 UTC] PHP  26. Elementor\Core\DocumentTypes\Page->get_initial_config() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/controls-stack.php:1021
+[29-Jul-2023 00:42:06 UTC] PHP  27. Elementor\Core\DocumentTypes\Page->get_elements_raw_data() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/base/document.php:643
+[29-Jul-2023 00:42:06 UTC] PHP  28. Elementor\Element_Section->get_raw_data() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/base/document.php:977
+[29-Jul-2023 00:42:06 UTC] PHP  29. Elementor\Element_Column->get_raw_data() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/element-base.php:536
+[29-Jul-2023 00:42:06 UTC] PHP  30. Elementor\Widget_Shortcode->get_raw_data() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/element-base.php:536
+[29-Jul-2023 00:42:06 UTC] PHP  31. Elementor\Widget_Shortcode->render_content() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/widget-base.php:733
+[29-Jul-2023 00:42:06 UTC] PHP  32. Elementor\Widget_Shortcode->render_by_mode() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/widget-base.php:609
+[29-Jul-2023 00:42:06 UTC] PHP  33. Elementor\Widget_Shortcode->render() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/controls-stack.php:2268
+[29-Jul-2023 00:42:06 UTC] PHP  34. do_shortcode() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/widgets/shortcode.php:130
+[29-Jul-2023 00:42:06 UTC] PHP  35. preg_replace_callback() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:227
+[29-Jul-2023 00:42:06 UTC] PHP  36. do_shortcode_tag() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:227
+[29-Jul-2023 00:42:06 UTC] PHP  37. call_user_func:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355
+[29-Jul-2023 00:42:06 UTC] PHP  38. sssw_grid_shortcode_data() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355
+[29-Jul-2023 00:42:06 UTC] PHP  39. count() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/saragna-social-stream/inc/social-stream-shortcode.php:9
+[29-Jul-2023 00:48:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'set_up_options_aklamator_YT' not found or invalid function name in /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php on line 308
+[29-Jul-2023 00:48:10 UTC] PHP Stack trace:
+[29-Jul-2023 00:48:10 UTC] PHP   1. {main}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/plugins.php:0
+[29-Jul-2023 00:48:10 UTC] PHP   2. activate_plugin() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/plugins.php:58
+[29-Jul-2023 00:48:10 UTC] PHP   3. do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/includes/plugin.php:691
+[29-Jul-2023 00:48:10 UTC] PHP   4. WP_Hook->do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/plugin.php:517
+[29-Jul-2023 00:48:10 UTC] PHP   5. WP_Hook->apply_filters() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:332
+[29-Jul-2023 00:48:10 UTC] PHP   6. call_user_func_array:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:56:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/saragna-social-stream/inc/social-stream-shortcode.php on line 9
+[29-Jul-2023 00:56:02 UTC] PHP Stack trace:
+[29-Jul-2023 00:56:02 UTC] PHP   1. {main}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/admin-ajax.php:0
+[29-Jul-2023 00:56:02 UTC] PHP   2. do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/admin-ajax.php:188
+[29-Jul-2023 00:56:02 UTC] PHP   3. WP_Hook->do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/plugin.php:517
+[29-Jul-2023 00:56:02 UTC] PHP   4. WP_Hook->apply_filters() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:332
+[29-Jul-2023 00:56:02 UTC] PHP   5. call_user_func_array:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:56:02 UTC] PHP   6. Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:56:02 UTC] PHP   7. call_user_func:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175
+[29-Jul-2023 00:56:02 UTC] PHP   8. Elementor\Widgets_Manager->ajax_render_widget() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175
+[29-Jul-2023 00:56:02 UTC] PHP   9. Elementor\Core\DocumentTypes\Page->render_element() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/managers/widgets.php:445
+[29-Jul-2023 00:56:02 UTC] PHP  10. Elementor\Widget_Shortcode->render_content() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/base/document.php:292
+[29-Jul-2023 00:56:02 UTC] PHP  11. Elementor\Widget_Shortcode->render_by_mode() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/widget-base.php:609
+[29-Jul-2023 00:56:02 UTC] PHP  12. Elementor\Widget_Shortcode->render() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/controls-stack.php:2268
+[29-Jul-2023 00:56:02 UTC] PHP  13. do_shortcode() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/widgets/shortcode.php:130
+[29-Jul-2023 00:56:02 UTC] PHP  14. preg_replace_callback() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:227
+[29-Jul-2023 00:56:02 UTC] PHP  15. do_shortcode_tag() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:227
+[29-Jul-2023 00:56:02 UTC] PHP  16. call_user_func:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355
+[29-Jul-2023 00:56:02 UTC] PHP  17. sssw_grid_shortcode_data() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355
+[29-Jul-2023 00:56:02 UTC] PHP  18. count() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/saragna-social-stream/inc/social-stream-shortcode.php:9
+[29-Jul-2023 00:56:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/saragna-social-stream/inc/social-stream-shortcode.php on line 9
+[29-Jul-2023 00:56:06 UTC] PHP Stack trace:
+[29-Jul-2023 00:56:06 UTC] PHP   1. {main}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/admin-ajax.php:0
+[29-Jul-2023 00:56:06 UTC] PHP   2. do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-admin/admin-ajax.php:188
+[29-Jul-2023 00:56:06 UTC] PHP   3. WP_Hook->do_action() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/plugin.php:517
+[29-Jul-2023 00:56:06 UTC] PHP   4. WP_Hook->apply_filters() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:332
+[29-Jul-2023 00:56:06 UTC] PHP   5. call_user_func_array:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:56:06 UTC] PHP   6. Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/class-wp-hook.php:308
+[29-Jul-2023 00:56:06 UTC] PHP   7. call_user_func:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175
+[29-Jul-2023 00:56:06 UTC] PHP   8. Elementor\Widgets_Manager->ajax_render_widget() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/common/modules/ajax/module.php:175
+[29-Jul-2023 00:56:06 UTC] PHP   9. Elementor\Core\DocumentTypes\Page->render_element() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/managers/widgets.php:445
+[29-Jul-2023 00:56:06 UTC] PHP  10. Elementor\Widget_Shortcode->render_content() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/core/base/document.php:292
+[29-Jul-2023 00:56:06 UTC] PHP  11. Elementor\Widget_Shortcode->render_by_mode() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/widget-base.php:609
+[29-Jul-2023 00:56:06 UTC] PHP  12. Elementor\Widget_Shortcode->render() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/base/controls-stack.php:2268
+[29-Jul-2023 00:56:06 UTC] PHP  13. do_shortcode() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/elementor/includes/widgets/shortcode.php:130
+[29-Jul-2023 00:56:06 UTC] PHP  14. preg_replace_callback() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:227
+[29-Jul-2023 00:56:06 UTC] PHP  15. do_shortcode_tag() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:227
+[29-Jul-2023 00:56:06 UTC] PHP  16. call_user_func:{/home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355}() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355
+[29-Jul-2023 00:56:06 UTC] PHP  17. sssw_grid_shortcode_data() /home/unionglo/zonainfantil.unionglobal.com.co/wp-includes/shortcodes.php:355
+[29-Jul-2023 00:56:06 UTC] PHP  18. count() /home/unionglo/zonainfantil.unionglobal.com.co/wp-content/plugins/saragna-social-stream/inc/social-stream-shortcode.php:9

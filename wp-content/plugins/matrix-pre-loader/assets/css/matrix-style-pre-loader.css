@@ -1,0 +1,31 @@
+
+#matrix-pre-loader-container {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width:100vw;
+    height:100vh;
+    z-index:999;
+    background-color: #111;
+    overflow: hidden;
+}
+
+.thread {
+    width: 1px;
+    word-wrap:break-word;
+    word-break:break-all;
+    height: auto;
+    position:absolute;
+    font-family: matrix;
+    color: #1ec503;
+    text-shadow: 0 0 40px #EEE;
+    -webkit-transition: all .4s;
+}
+
+.thread:first-letter, .thread:last-letter,.light {
+    color: #FFF;
+    text-shadow: 0 0 40px #CCC;
+}
+

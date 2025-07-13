@@ -1,0 +1,2844 @@
+# Translation of Themes - Page Builder Framework in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Page Builder Framework package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-05 19:58:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Page Builder Framework\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Page Builder Framework is a super fast, lightweight (less than 50kb on the frontend) and highly customizible WordPress theme made to work with all page builders such as Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, Thrive Architect, Brizy and more. It can be daunting to look for the perfect theme to pair with the page builder you love. Page Builder Framework is the only theme that has been specifically created for Page Builders. It has been written from ground up with SEO in mind, is 100% Gutenberg compatible and follows the latest web standards (HTML5 and schema.org markup). With its minimalistic approach and lots of customization options in the WordPress customizer, it enables you to build almost any type of website such as a Blog, Portfolio website, Agency website or WooCommerce storefront. Agency owners and Developers love Page Builder Framework for its flexibility and extendability when it comes to building outstanding client websites. If you’re not a coder, don’t worry! With endless options in the WordPress customizer it’s the perfect fit for users at any skill level. Are you using a Page Builder and still looking for the perfect theme? Look no further."
+msgstr "Page Builder Framework es es un tema de WordPress super rápido, ligero (menos de 50kb en el front-end) y muy personalizable, creado para ser compatible con todos los constructores de páginas como Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, Thrive Architect y más. Puede resultar abrumador buscar el tema perfecto que emparejar con el constructor que te encanta. Page Builder Framework es el único tema hecho específicamente para constructores de páginas. Ha sido escrito de arriba a abajo con el SEO en mente y sigue los últimos estándares web (HTML5 y marcado de schema.org). Con su planteamiento minimalista y montones de opciones que configurar en el personalizador de WordPress, te permite construir casi cualquier tipo de web como un blog, web de portfolio, web de agencia o escaparate de WooCommerce. A los propietarios de agencias y los desarrolladores les encanta la flexibilidad y extensibilidad de Page Builder Framework a la hora de construir webs alucinantes para sus clientes. ¡No te preocupes si no eres un programador! Al tener una cantidad ilimitada de opciones en el personalizador, es perfecto para usuarios de cualquier nivel. ¿Usas un constructor de página y buscas el tema perfecto? No busques más."
+
+#. Theme Name of the theme
+#: inc/template-parts/footer.php:21
+#, gp-priority: high
+msgid "Page Builder Framework"
+msgstr "Page Builder Framework"
+
+#: assets/kirki/kirki-packages/settings/templates/settings-template.php:38
+msgid "Settings"
+msgstr "Ajustes"
+
+#: assets/kirki/kirki-packages/settings/templates/settings-template.php:26
+msgid "The #1 Customizer Toolkit for WordPress Theme Developers."
+msgstr "El framework de personalización definitivo para los desarrolladores de temas para WordPress."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:99
+msgid "Install Ultimate Dashboard (FREE)"
+msgstr "Instalar Ultimate Dashboard (Gratis)"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:94
+msgid "Install Ultimate Dashboard or <a href=\"https://ultimatedashboard.io/?utm_source=repository&utm_medium=settings_page&utm_campaign=kirki\" target=\"_blank\">learn more</a>."
+msgstr "Instala Ultimate Dashboard o <a href=\"https://ultimatedashboard.io/?utm_source=repository&utm_medium=settings_page&utm_campaign=kirki\" target=\"_blank\">Aprende más</a>."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:57
+msgid "Replace the entire WordPress dashboard with your saved Elementor, Beaver Builder or Brizy Layout or use it along with our Ultimate Dashboard widgets."
+msgstr "Sustituye todo el escritorio de WordPress con tu diseño guardado de Elementor, Beaver Builder o Brizy o utilízalo junto con nuestros widgets Ultimate Dashboard."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:56
+msgid "Page Builder Support"
+msgstr "Compatibilidad con constructor de páginas"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:52
+msgid "Fully white label the WordPress admin area and apply your own branding."
+msgstr "Marca blanca completa en el área de administración de WordPress y aplica tu propia marca."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:51
+msgid "White Label WordPress"
+msgstr "WordPress de marca blanca"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:47
+msgid "Rearrange & hide menu & sub menu items from the WordPress admin area & admin bar."
+msgstr "Reorganiza y oculta los elementos de menú y submenú del área de administración y la barra de administración de WordPress."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:46
+msgid "Admin Menu & Admin Bar Editor"
+msgstr "Menú de administración y editor de la barra de administración"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:42
+msgid "Create Custom Admin Pages (Top-Level & Sub-Menu) with HTML & CSS."
+msgstr "Crea páginas de administración personalizadas (nivel superior y submenú) con HTML y CSS."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:41
+msgid "Custom Admin Pages"
+msgstr "Páginas de administración personalizadas"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:37
+msgid "Change the WordPress login URL, redirect non-logged in users trying to access the wp-admin URL & set up redirects after login for all user roles."
+msgstr "Cambia la URL de inicio de sesión de WordPress, redirige a los usuarios que no hayan iniciado sesión y que intenten acceder a la URL de wp-admin y configura redirecciones tras el inicio de sesión para todos los perfiles de usuario."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:36
+msgid "Login Redirects"
+msgstr "Redirecciones de inicio de sesión"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:32
+msgid "Customize & rebrand the WordPress login screen with full control directly within the WordPress customizer."
+msgstr "Personaliza y renombra la pantalla de acceso de WordPress con control total directamente desde el personalizador de WordPress."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:31
+msgid "Customize the WordPress Login"
+msgstr "Personalizar el acceso de WordPress"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:27
+msgid "Replace the default WordPress widgets with your own to give the WordPress dashboard a more meaningful use."
+msgstr "Sustituye los widgets predeterminados de WordPress por los tuyos propios para dar al escritorio de WordPress un uso más significativo."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:26
+msgid "Custom Dashboard Widgets"
+msgstr "Widgets personalizados del escritorio"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:14
+msgid "Ultimate Dashboard - Features"
+msgstr "Ultimate Dashboard - Características"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:34
+msgid "The following article provides a detailed explanation of the Clear Font Cache option in Kirki."
+msgstr "El siguiente artículo ofrece una explicación detallada de la opción borrar caché de fuentes en Kirki."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:31
+msgid "For more information, please refer to your theme's documentation."
+msgstr "Para más información, consulta la documentación de tu tema."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:20
+msgid "It provides advanced customization options within the WordPress Customizer, allowing you to easily modify the appearance of your site."
+msgstr "Proporciona opciones avanzadas de personalización dentro del Personalizador de WordPress, permitiéndote modificar fácilmente la apariencia de tu sitio."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:17
+msgid "Kirki is a key component of the WordPress theme you have installed."
+msgstr "Kirki es un componente clave del tema de WordPress que tienes instalado."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr "¿Por qué veo esto?"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the font cache."
+msgstr "Si las Google Fonts seleccionadas en el Personalizador no se muestran correctamente, prueba a borrar la caché de fuentes."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, Kirki stores Google Fonts locally on your server."
+msgstr "Para cumplir la normativa GDPR, Kirki almacena Google Fonts localmente en tu servidor."
+
+#: assets/kirki/kirki-packages/settings/src/SetupSettings.php:233
+msgid "Installation has been prepared successfully."
+msgstr "La instalación se ha preparado correctamente."
+
+#: assets/kirki/kirki-packages/settings/src/SetupSettings.php:225
+msgid "Ultimate Dashboard has been activated successfully."
+msgstr "Ultimate Dashboard se ha activado correctamente."
+
+#: assets/kirki/kirki-packages/settings/src/SetupSettings.php:215
+msgid "Ultimate Dashboard has already been active."
+msgstr "Ultimate Dashboard ya está activo."
+
+#: assets/kirki/kirki-packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr "Kirki"
+
+#: assets/kirki/kirki-packages/settings/src/SetupSettings.php:54
+#: assets/kirki/kirki-packages/settings/templates/settings-template.php:23
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#: assets/kirki/kirki-packages/settings/src/Notice.php:144
+msgid "Discount notice has been dismissed"
+msgstr "El aviso de descuento ha sido descartado"
+
+#: assets/kirki/kirki-packages/settings/src/Notice.php:136
+msgid "You don't have capability to run this action"
+msgstr "No tienes las capacidades para realizar esta acción."
+
+#: assets/kirki/kirki-packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr "Nonce no válido"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:26
+#: inc/settings/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Vaciar la caché"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:19
+#: inc/settings/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Es seguro utilizarlo en sitios de producción."
+
+#: inc/settings/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the Font Cache."
+msgstr "Si las fuentes de Google seleccionadas en el personalizador no se muestran correctamente, por favor, trata de vaciar la caché de fuentes."
+
+#: inc/settings/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, we store Google Fonts locally on your server."
+msgstr "Para cumplir con el RGPD, almacenamos localmente en tu servidor las fuentes de Google."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:12
+#: inc/settings/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "Vaciar caché de fuentes"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:16
+#: inc/settings/bfcm-notice.php:31
+msgid "Learn more"
+msgstr "Aprender más"
+
+#: inc/settings/bfcm-notice.php:23
+msgid "Upgrade to the <strong>Premium Add-On</strong> for Page Builder Framework, today & get up to 30% off!"
+msgstr "Actualiza al <strong>complemento Premium</strong> para Page Builder Framework, ¡hoy mismo y consigue un descuento del 30 %!"
+
+#: inc/settings/bfcm-notice.php:20
+msgid "Our Biggest Sale of the Year starts NOW! - Save up to 30%!"
+msgstr "¡Nuestro mayor descuento del año empieza AHORA! - ¡Ahorra hasta un 30 %!"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:35
+#: inc/settings/metaboxes/recommended.php:27
+msgid "Better Admin Bar"
+msgstr "Better Admin Bar"
+
+#: inc/settings/compatibility-notice.php:30
+msgid "Manage Subscription"
+msgstr "Gestionar suscripción"
+
+#: inc/settings/compatibility-notice.php:27
+msgid "View Updates"
+msgstr "Ver actualizaciones"
+
+#: inc/settings/compatibility-notice.php:23
+msgid "Please update the Premium Add-On to the latest version."
+msgstr "Por favor, actualiza el complemento premium a la última versión."
+
+#: inc/settings/compatibility-notice.php:22
+msgid "Your version of the <strong>Premium Add-On</strong> is outdated and no longer compatible with Page Builder Framework."
+msgstr "Tu versión del <strong>complemento premium</strong> está obsoleta y ya no es compatible con Page Builder Framework."
+
+#: inc/settings/compatibility-notice.php:19
+msgid "Premium Add-On - Compatibility Warning"
+msgstr "Complemento premium - Aviso de compatibilidad"
+
+#: inc/customizer/settings/settings-header.php:1394
+msgid "Define a background color & turn the hamburger icon into a button."
+msgstr "Define un color de fondo y convierte el icono de la hamburguesa en un botón."
+
+#: inc/customizer/settings/settings-header.php:1392
+msgid "Hamburger Icon Button"
+msgstr "Botón de icono hamburguesa"
+
+#: inc/customizer/settings/settings-header.php:1016
+msgid "Sub Menu Width"
+msgstr "Ancho del submenú"
+
+#: inc/customizer/settings/settings-general.php:812
+msgid "Applies to buttons displayed in the themes accent color such as WooCommerce buttons."
+msgstr "Se aplica a los botones que se muestran en el color de acento del tema, como los botones de WooCommerce."
+
+#: inc/customizer/settings/settings-general.php:811
+msgid "Theme Buttons (Primary)"
+msgstr "Botones del tema (primarios)"
+
+#: inc/customizer/settings/settings-general.php:749
+msgid "Applies to default buttons such as \"Read more\" used throughout the theme."
+msgstr "Se aplica a los botones por defecto, como «Leer más», utilizados en todo el tema."
+
+#: inc/customizer/settings/settings-general.php:414
+msgid "Sidebar Widgets"
+msgstr "Widgets de la barra lateral"
+
+#: inc/customizer/settings/settings-general.php:356
+msgid "Position (Global)"
+msgstr "Posición (global)"
+
+#: inc/customizer/settings/settings-general.php:79
+msgid "Page Padding"
+msgstr "Relleno de página"
+
+#: inc/customizer/settings/settings-general.php:58
+#: inc/customizer/settings/settings-general.php:1013
+msgid "Scroll to Top Button"
+msgstr "Botón de desplazamiento a la parte superior"
+
+#: inc/customizer/settings/settings-footer.php:40
+#: inc/customizer/settings/settings-header.php:33
+#: inc/customizer/settings/settings-header.php:51
+#: inc/customizer/settings/settings-header.php:69
+#: inc/customizer/settings/settings-header.php:87
+msgid "Design"
+msgstr "Diseño"
+
+#: inc/customizer/settings/settings-blog.php:847
+msgid "Disable Comments"
+msgstr "Desactivar comentarios"
+
+#. translators: %s is the limit of selection number.
+#: assets/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:169
+msgid "You can only select %s items"
+msgstr "Solo puedes seleccionar %s elementos"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extragrande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Larger"
+msgstr "Más grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Diminuto"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr "Valores predeterminados"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr "Ondulado"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr "Continuo"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr "Variante de fuente"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "900 Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "800 Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "600 Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "500 Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "300 Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "200 Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "100 Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:124
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "700 Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:120
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:116
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Italic"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:112
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Regular"
+
+#: assets/kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr "Seleccionar..."
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr "Varios"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Avisos"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr "Widgets"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Productos"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Social"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Ordenar"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Edición de imágenes"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Medios"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Formatos de entrada"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Pantalla de bienvenida"
+
+#: assets/kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Menú de administración"
+
+#: inc/settings/bfcm-notice.php:33
+msgid "*Only Administrators will see this message."
+msgstr "*Solo los administradores verán este mensaje."
+
+#: inc/settings/bfcm-notice.php:27
+msgid "All prices are reduced. No coupon code required."
+msgstr "Todos los precios están rebajados. No se requiere ningún código de cupón."
+
+#: inc/settings/bfcm-notice.php:26
+msgid "But hurry up, the deal will expire soon!"
+msgstr "¡Pero date prisa, la oferta caducará pronto!"
+
+#: inc/customizer/settings/settings-header.php:1595
+msgid "Auto collapse open sub-menu if other sub-menu is being opened."
+msgstr "Cerrar automáticamente el submenú abierto si se está abriendo otro submenú."
+
+#: inc/customizer/settings/settings-header.php:1594
+msgid "Auto Collapse"
+msgstr "Cerrar automáticamente"
+
+#: inc/settings/metaboxes/recommended.php:76
+msgid "WPML is a popular translation plugin that helps you create a multilingual website for your business or blog."
+msgstr "WPML es un popular plugin de traducción que te ayuda a crear una web multilingüe para tu negocio o tu blog."
+
+#: inc/settings/metaboxes/recommended.php:75
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/options.php:114
+msgid "Custom Width"
+msgstr "Ancho personalizado"
+
+#: inc/customizer/settings/settings-header.php:1059
+msgid "Text Alignment"
+msgstr "Alineación del texto"
+
+#: inc/settings/metaboxes/recommended.php:60
+msgid "A set of plugins to help you build dynamic, advanced websites without programming."
+msgstr "Un conjunto de plugins para ayudarte a crear webs dinámicas y avanzadas sin programar."
+
+#: inc/settings/metaboxes/recommended.php:59
+msgid "Toolset"
+msgstr "Conjunto de herramientas"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:680
+msgid "Notice Font Color"
+msgstr "Color del texto de aviso"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:311
+msgid "Disable Gallery Lightbox"
+msgstr "Desactivar la caja de luz de la galería"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:301
+msgid "Disable Gallery Slider"
+msgstr "Desactivar el carrusel de la galería"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:291
+msgid "Disable Gallery Zoom"
+msgstr "Desactivar el zoom de la galería"
+
+#: searchform.php:29 searchform.php:30 searchform.php:36
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/settings/metaboxes/recommended.php:68
+msgid "The Weglot translation plugin gives you a reliable and easy way to take your WordPress website from local to global in minutes. No coding required and no developer time needed."
+msgstr "El plugin de traducción Weglot te ofrece una forma fiable y sencilla de llevar tu web WordPress de local a global en cuestión de minutos. No es necesario codificar ni tiempo de desarrollo."
+
+#: inc/customizer/settings/settings-blog.php:485
+msgid "Full Post"
+msgstr "Entrada completa"
+
+#: inc/customizer/settings/settings-blog.php:484
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: inc/customizer/settings/settings-blog.php:478
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/settings/metaboxes/review.php:18
+msgid "Leave a Review"
+msgstr "Dejar una reseña"
+
+#: inc/settings/metaboxes/review.php:15
+msgid "Do you enjoy Page Builder Framework? Leave a review in the WordPress directory and spread the word!"
+msgstr "¿Te gusta Page Builder Framework? ¡Deja una reseña en el directorio de WordPress y haz correr la voz!"
+
+#: inc/settings/metaboxes/review.php:12
+msgid "Leave us a Review"
+msgstr "Déjanos una reseña"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:89
+#: inc/settings/metaboxes/recommended.php:121
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:81
+#: inc/settings/metaboxes/recommended.php:113
+msgid "Install"
+msgstr "Instalar"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:71
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:74
+#: inc/settings/metaboxes/recommended.php:103
+#: inc/settings/metaboxes/recommended.php:106
+msgid "Installed"
+msgstr "Instalado"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:20
+#: inc/settings/metaboxes/recommended.php:52
+msgid "Reset, Export & Import your WordPress customizer settings with a simple click of a button."
+msgstr "Restablece, exporta e importa los ajustes del personalizador de WordPress con el simple clic de un botón."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:19
+#: inc/settings/metaboxes/recommended.php:51
+msgid "Customizer Reset - Export & Import"
+msgstr "Customizer Reset - Export & Import"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:28
+#: inc/settings/metaboxes/recommended.php:44
+msgid "Ultimate Dashboard is the #1 plugin to customize your WordPress Dashboard."
+msgstr "Ultimate Dashboard es el plugin número uno para personalizar tu escritorio de WordPress."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:27
+#: inc/settings/metaboxes/recommended.php:43
+msgid "Ultimate Dashboard"
+msgstr "Ultimate Dashboard"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:44
+#: inc/settings/metaboxes/recommended.php:36
+msgid "Add beautiful WordPress video lightbox popups to your website without sacrificing performance."
+msgstr "Añade bonitas ventanas emergentes de vídeo en caja de luz de WordPress a tu web sin sacrificar el rendimiento."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:43
+#: inc/settings/metaboxes/recommended.php:35
+msgid "WP Video Popup"
+msgstr "WP Video Popup"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:36
+#: inc/settings/metaboxes/recommended.php:28
+msgid "Quickly access all important areas of your WordPress website & provide your clients with the user experience they deserve."
+msgstr "Accede rápidamente a todas las áreas importantes de tu web WordPress y proporciona a tus clientes la experiencia de usuario que se merecen."
+
+#: inc/settings/metaboxes/recommended.php:20
+msgid "Take your website to the next level with the Premium Add-On for Page Builder Framework."
+msgstr "Lleva tu sitio web al siguiente nivel con la extensión Premium de Page Builder Framework."
+
+#: inc/settings/metaboxes/premium.php:100
+msgid "Check out all the Premium Add-On features."
+msgstr "Echa un vistazo a todas las características de la extensión Premium."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:91
+#: inc/settings/metaboxes/premium.php:97
+msgid "And much more!"
+msgstr "¡Y mucho más!"
+
+#: inc/settings/metaboxes/premium.php:64
+msgid "Add a customizable Call to Action Button to your navigation with just a few clicks."
+msgstr "Añade un botón de llamada a la acción personalizable a tu navegación con solo unos pocos clics."
+
+#: inc/settings/metaboxes/premium.php:63
+msgid "Call to Action Button"
+msgstr "Botón de llamada a la acción"
+
+#: inc/settings/metaboxes/premium.php:59
+msgid "Easily create an advanced mega menu with up to 4 rows."
+msgstr "Crea fácilmente un mega menú avanzado con hasta 4 filas."
+
+#: inc/settings/metaboxes/premium.php:58
+msgid "Mega Menu"
+msgstr "Mega menú"
+
+#: inc/settings/metaboxes/premium.php:54
+msgid "Take full control over the design of your online store with more advanced WooCommerce features."
+msgstr "Toma el control total del diseño de tu tienda online con características más avanzadas para WooCommerce."
+
+#: inc/settings/metaboxes/premium.php:53
+msgid "Advanced WooCommerce Features"
+msgstr "Características avanzadas para WooCommerce"
+
+#: inc/settings/metaboxes/premium.php:49
+msgid "Set custom responsive breakpoints for tablets, desktops & mobiles for a pixel perfect design."
+msgstr "Establece puntos de ruptura adaptable personalizados para tabletas, equipos de escritorio y móviles para un diseño de píxel perfecto."
+
+#: inc/settings/metaboxes/premium.php:48
+msgid "Adjustable Breakpoints"
+msgstr "Puntos de ruptura ajustables"
+
+#: inc/settings/metaboxes/premium.php:44
+msgid "Customize fonts and add Typekit- & Custom Fonts to your website."
+msgstr "Personaliza las fuentes y añade Typekit y Custom Fonts a tu web."
+
+#: inc/settings/metaboxes/premium.php:43
+msgid "Advanced Typography"
+msgstr "Tipografía avanzada"
+
+#: inc/settings/metaboxes/premium.php:39
+msgid "Your theme, your branding. Fully white label Page Builder Framework & the Premium Add-On."
+msgstr "Tu tema, tu marca. Page Builder Framework y la extensión Premium totalmente de marca blanca."
+
+#: inc/settings/metaboxes/premium.php:38
+msgid "White Label Settings"
+msgstr "Ajustes de marca blanca"
+
+#: inc/settings/metaboxes/premium.php:34
+msgid "Create a beautiful & fully customizable Sticky Navigation in seconds."
+msgstr "Crea en segundos un bonito menú de navegación fijo y totalmente personalizable."
+
+#: inc/settings/metaboxes/premium.php:33
+msgid "Sticky Navigation"
+msgstr "Navegación fija"
+
+#: inc/settings/metaboxes/premium.php:29
+msgid "Create a customizable Transparent Header with just a few clicks."
+msgstr "Crea una cabecera transparente personalizable con solo unos pocos clics."
+
+#: inc/settings/metaboxes/premium.php:28
+msgid "Transparent Header"
+msgstr "Cabecera transparente"
+
+#: inc/settings/metaboxes/premium.php:19
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: inc/settings/metaboxes/premium.php:18
+msgid "Premium Add-On Features"
+msgstr "Características de la extensión Premium"
+
+#: inc/settings/metaboxes/community.php:15
+msgid "Join the community and meet 1700+ Page Builder Framework users in our Facebook group."
+msgstr "Únete a la comunidad y conoce a más de 1700 usuarios de Page Builder Framework en nuestro grupo de Facebook."
+
+#: inc/settings/metaboxes/community.php:12
+#: inc/settings/metaboxes/community.php:18
+msgid "Join the Community"
+msgstr "Únete a la comunidad"
+
+#: inc/settings/metaboxes/customizer.php:96
+msgid "Explore all of the Page Builder Framework features."
+msgstr "Explora todas las características de Page Builder Framework."
+
+#: inc/settings/metaboxes/customizer.php:93
+msgid "Launch WordPress Customizer"
+msgstr "Lanzar el personalizador de WordPress"
+
+#: inc/settings/metaboxes/customizer.php:80
+msgid "Customizer Settings"
+msgstr "Ajustes del personalizador"
+
+#: inc/settings/metaboxes/resources.php:20
+msgid "Page Builder Framework Website"
+msgstr "Web de Page Builder Framework"
+
+#: inc/settings/metaboxes/resources.php:13
+msgid "Additional Resources"
+msgstr "Recursos adicionales"
+
+#: inc/settings/metaboxes/documentation.php:39
+msgid "Any questions? Don't hesitate to reach out! <br><br> Post your question in the official WordPress support forum and we will help you out asap!"
+msgstr "¿Alguna pregunta? ¡No dudes en contactar con nosotros! <br><br> Publica tu pregunta en el foro oficial de soporte de WordPress, ¡y te ayudaremos lo antes posible!"
+
+#: inc/settings/metaboxes/documentation.php:38
+#: inc/settings/metaboxes/resources.php:32
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: inc/settings/metaboxes/documentation.php:33
+msgid "Are you planning to make code changes to your website? We've got you covered! <br><br> Download the Page Builder Framework child theme or generate your own, white labeled version of it."
+msgstr "¿Planeas hacer cambios de código en tu web? ¡Te tenemos la solución! <br><br> Descarga el tema hijo de Page Builder Framework o genera el tuyo propio con marca blanca."
+
+#: inc/settings/metaboxes/documentation.php:32
+#: inc/settings/metaboxes/resources.php:26
+msgid "Child Theme"
+msgstr "Tema hijo"
+
+#: inc/settings/metaboxes/documentation.php:27
+msgid "Did you know? There is a Facebook Community of Page Builder Framework users, just like you! <br><br> Join the community and meet 1700+ Page Builder Framework users."
+msgstr "¿Lo sabías? ¡Hay una comunidad de usuarios de Page Builder Framework, como tú, en Facebook! <br><br> Únete a la comunidad y conoce a más de 1700 usuarios de Page Builder Framework."
+
+#: inc/settings/metaboxes/documentation.php:26
+msgid "Community"
+msgstr "Comunidad"
+
+#: inc/settings/metaboxes/documentation.php:21
+msgid "Not sure how something works? <br><br> Our extensive Documentation is a great place to get started and learn more about Page Builder Framework."
+msgstr "¿No estás seguro de cómo funciona algo? <br><br> Nuestra extensa documentación es un gran lugar para empezar y aprender más acerca de Page Builder Framework."
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:27
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/documentation.php:37
+#: inc/settings/metaboxes/documentation.php:20
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/settings/settings-page.php:38
+msgid "Help"
+msgstr "Ayuda"
+
+#: assets/kirki/kirki-packages/settings/templates/settings-template.php:41
+#: inc/settings/settings-page.php:37
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/settings/metaboxes/recommended.php:19 inc/settings/settings-page.php:36
+msgid "Premium Add-On"
+msgstr "Extensión Premium"
+
+#: inc/settings/settings-page.php:35
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/integration/elementor-pro.php:113
+msgid "After Main Content"
+msgstr "Después del contenido principal"
+
+#: inc/integration/elementor-pro.php:104
+msgid "Before Main Content"
+msgstr "Antes del contenido principal"
+
+#: inc/integration/elementor-pro.php:95
+msgid "After Inner Content"
+msgstr "Después del contenido interno"
+
+#: inc/integration/elementor-pro.php:86
+msgid "Before Inner Content"
+msgstr "Antes del contenido interno"
+
+#: inc/integration/elementor-pro.php:77
+msgid "After Content"
+msgstr "Después del contenido"
+
+#: inc/integration/elementor-pro.php:40
+msgid "Footer (Replace)"
+msgstr "Pie de página (reemplazar)"
+
+#: inc/integration/elementor-pro.php:31
+msgid "Header (Replace)"
+msgstr "Cabecera (reemplazar)"
+
+#: inc/integration/elementor-pro.php:22
+msgid "Pre Header (Replace)"
+msgstr "Precabecera (reemplazar)"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:58
+msgid "Action Color"
+msgstr "Color de acción"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:44
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:26
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:19
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/template-parts/navigation/menu-mobile-default.php:25
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:29
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:37
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:33
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:40
+msgid "Mobile Site Navigation"
+msgstr "Navegación móvil"
+
+#: inc/customizer/settings/settings-header.php:1605
+msgid "Indent"
+msgstr "Sangría"
+
+#: inc/customizer/settings/settings-header.php:95
+msgid "Mobile Sub Menu"
+msgstr "Submenú móvil"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:87
+msgid "Widgets in this area will be shown on WooCommerce product pages."
+msgstr "Los widgets de este área se mostrarán en las páginas de producto de WooCommerce."
+
+#: inc/integration/woocommerce/woocommerce-functions.php:74
+msgid "Widgets in this area will be shown on WooCommerce archive pages."
+msgstr "Los widgets de este área se mostrarán en las páginas de archivo de WooCommerce."
+
+#: inc/integration/edd/edd-functions.php:80
+msgid "Widgets in this area will be shown on EDD product pages."
+msgstr "Los widgets de este área se mostrarán en las páginas de producto de EDD."
+
+#: inc/integration/edd/edd-functions.php:69
+msgid "Widgets in this area will be shown on EDD archive pages."
+msgstr "Los widgets de este área se mostrarán en las páginas de archivo de EDD."
+
+#: inc/settings/activation-notice.php:28
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#. Template Name of the theme
+msgid "Sidebar (Deprecated)"
+msgstr "Barra lateral (Obsoleta)"
+
+#: inc/customizer/settings/settings-footer.php:32
+msgid "Footer Bar"
+msgstr "Barra del pie de página"
+
+#: inc/customizer/settings/settings-footer.php:23
+msgid "Widget Area"
+msgstr "Área de widgets"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:344
+msgid "Price Quantity Buttons (+/-)"
+msgstr "Botones de cantidad de precios (+/-)"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:738
+msgid "Increase quantity"
+msgstr "Aumentar cantidad"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:725
+msgid "Decrease quantity"
+msgstr "Disminuir la cantidad"
+
+#: inc/settings/metaboxes/customizer.php:98
+msgid "Customize"
+msgstr "Personalizar"
+
+#: inc/settings/activation-notice.php:23
+msgid "Thank you for choosing Page Builder Framework! Please visit the theme settings page to get started."
+msgstr "¡Gracias por elegir Page Builder Framework! Para empezar, por favor, visita la página de ajustes del tema."
+
+#: inc/settings/activation-notice.php:20
+msgid "Welcome to Page Builder Framework!"
+msgstr "¡Bienvenido a Page Builder Framework!"
+
+#: inc/customizer/settings/settings-header.php:1442
+msgid "Menu Item Settings"
+msgstr "Ajustes de los elementos del menú"
+
+#: inc/theme-settings.php:40
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: inc/customizer/settings/settings-general.php:99
+msgid "Boxed Layout"
+msgstr "Diseño de cajas"
+
+#: inc/customizer/settings/settings-blog.php:187
+msgid "Excerpt Indicator"
+msgstr "Indicador del extracto"
+
+#: inc/integration/edd/edd-customizer-settings.php:26
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:37
+msgid "Cart Menu Item"
+msgstr "Elemento del menú del carrito"
+
+#: inc/customizer/settings/settings-header.php:290
+msgid "Pre Header Width"
+msgstr "Ancho de la precabecera"
+
+#: assets/kirki/kirki-packages/settings/templates/metaboxes/recommended-plugins.php:83
+#: inc/customizer/settings/settings-footer.php:374
+#: inc/customizer/settings/settings-footer.php:389
+#: inc/customizer/settings/settings-header.php:997
+#: inc/customizer/settings/settings-header.php:1204
+#: inc/customizer/settings/settings-header.php:1575
+#: inc/customizer/settings/settings-header.php:1722
+#: inc/customizer/settings/settings-typography.php:188
+#: inc/customizer/settings/settings-typography.php:319
+#: inc/customizer/settings/settings-typography.php:372
+#: inc/customizer/settings/settings-typography.php:426
+#: inc/customizer/settings/settings-typography.php:479
+#: inc/customizer/settings/settings-typography.php:532
+#: inc/customizer/settings/settings-typography.php:585
+#: inc/customizer/settings/settings-typography.php:638
+#: inc/customizer/settings/settings-typography.php:691
+#: inc/customizer/settings/settings-typography.php:744
+#: inc/settings/metaboxes/premium.php:104
+#: inc/settings/metaboxes/recommended.php:115
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: inc/customizer/settings/settings-footer.php:373
+#: inc/customizer/settings/settings-footer.php:388
+#: inc/customizer/settings/settings-header.php:996
+#: inc/customizer/settings/settings-header.php:1203
+#: inc/customizer/settings/settings-header.php:1574
+#: inc/customizer/settings/settings-header.php:1721
+#: inc/customizer/settings/settings-typography.php:187
+#: inc/customizer/settings/settings-typography.php:318
+#: inc/customizer/settings/settings-typography.php:371
+#: inc/customizer/settings/settings-typography.php:425
+#: inc/customizer/settings/settings-typography.php:478
+#: inc/customizer/settings/settings-typography.php:531
+#: inc/customizer/settings/settings-typography.php:584
+#: inc/customizer/settings/settings-typography.php:637
+#: inc/customizer/settings/settings-typography.php:690
+#: inc/customizer/settings/settings-typography.php:743
+msgid "Premium Features available"
+msgstr "Características premium disponibles"
+
+#: inc/customizer/settings/settings-header.php:445
+msgid "Mobile Logo"
+msgstr "Logotipo para móviles"
+
+#: inc/customizer/settings/settings-blog.php:66
+msgid "Post"
+msgstr "Entrada"
+
+#: inc/integration/elementor-pro.php:167
+msgid "After Sidebar"
+msgstr "Después de la barra lateral"
+
+#: inc/integration/elementor-pro.php:158
+msgid "Before Sidebar"
+msgstr "Antes de la barra lateral"
+
+#: inc/integration/elementor-pro.php:149
+msgid "After Post"
+msgstr "Después de la entrada"
+
+#: inc/integration/elementor-pro.php:140
+msgid "Before Post"
+msgstr "Antes de la entrada"
+
+#: inc/integration/elementor-pro.php:131
+msgid "After Footer"
+msgstr "Después del pie de página"
+
+#: inc/integration/elementor-pro.php:122
+msgid "Before Footer"
+msgstr "Antes del pie de página"
+
+#: inc/integration/elementor-pro.php:58
+msgid "After Header"
+msgstr "Después de la cabecera"
+
+#: inc/integration/elementor-pro.php:49
+msgid "Before Header"
+msgstr "Antes de la cabecera"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:884
+msgid "List"
+msgstr "Lista"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:542
+msgid "Enable AJAX add to cart button"
+msgstr "Activar el botón de añadir al carrito por AJAX"
+
+#: assets/kirki/kirki-packages/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "No volver a mostrar esto"
+
+#: assets/kirki/kirki-packages/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Instalar plugin"
+
+#: assets/kirki/kirki-packages/compatibility/src/Init.php:257
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Tu tema usa Font Awesome para los iconos. Para evitar problemas con iconos que no se muestran, te recomendamos instalar el plugin oficial de Font Awesome."
+
+#: inc/customizer/settings/settings-blog.php:129
+msgid "Author Avatar"
+msgstr "Avatar del autor"
+
+#: inc/customizer/settings/settings-blog.php:100
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/customizer/settings/settings-general.php:574
+msgid "Below Header"
+msgstr "Bajo la cabecera"
+
+#: inc/customizer/settings/settings-general.php:573
+#: inc/integration/elementor-pro.php:68
+msgid "Before Content"
+msgstr "Antes del contenido"
+
+#: inc/customizer/settings/settings-blog.php:30
+msgid "Pagination"
+msgstr "Paginación"
+
+#: inc/customizer/settings/settings-blog.php:697
+msgid "Image Beside Post Layout Settings"
+msgstr "Ajustes de diseño de la imagen junto a la entrada"
+
+#: inc/customizer/settings/settings-blog.php:551
+#: inc/customizer/settings/settings-blog.php:900
+msgid "Stretch Featured Image"
+msgstr "Estirar imagen destacada"
+
+#: inc/helpers.php:767
+msgid "Scroll to Top"
+msgstr "Vuelve al inicio"
+
+#: inc/customizer/settings/settings-header.php:469
+msgid "Logo Width"
+msgstr "Ancho del logotipo"
+
+#: inc/customizer/settings/settings-footer.php:191
+msgid "Powered by [theme_author]"
+msgstr "Desarrollado por [theme_author]"
+
+#: inc/customizer/settings/settings-footer.php:111
+msgid "&copy; [year] - [blogname] | All rights reserved"
+msgstr "&copy; [año] - [blogname] | Todos los derechos reservados"
+
+#: inc/customizer/settings/settings-header.php:616
+msgid "Display Tagline on Mobile"
+msgstr "Mostrar descripción corta en móviles"
+
+#: inc/customizer/settings/settings-typography.php:250
+msgid "Tagline - Font Settings"
+msgstr "Descripción corta - Ajustes de fuentes"
+
+#: inc/customizer/settings/settings-typography.php:207
+msgid "Title - Font Settings"
+msgstr "Título - Ajustes de fuentes"
+
+#: inc/customizer/settings/settings-general.php:372
+msgid "Gap"
+msgstr "Espacio"
+
+#: inc/customizer/settings/settings-general.php:1063
+msgid "Show after (px)"
+msgstr "Mostrar después (px)"
+
+#: inc/customizer/settings/settings-blog.php:876
+msgid "Post Title"
+msgstr "Título de la entrada"
+
+#: inc/customizer/settings/settings-blog.php:875
+msgid "Previous/Next Post"
+msgstr "Entrada anterior/siguiente"
+
+#: inc/customizer/settings/settings-blog.php:736
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:275
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:916
+msgid "Image Width"
+msgstr "Ancho de la imagen"
+
+#: inc/customizer/settings/settings-blog.php:589
+msgid "Space Between"
+msgstr "Espacio intermedio"
+
+#: inc/customizer/settings/settings-blog.php:536
+#: inc/customizer/settings/settings-blog.php:885
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/customizer/settings/settings-blog.php:423
+msgid "Remove Prefix"
+msgstr "Eliminar prefijo"
+
+#: inc/customizer/settings/settings-blog.php:267
+msgid "Categories Title"
+msgstr "Título de las categorías"
+
+#: inc/customizer/settings/settings-blog.php:110
+#: inc/customizer/settings/settings-general.php:589
+msgid "Separator"
+msgstr "Separador"
+
+#: inc/customizer/settings/settings-blog.php:47
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: inc/customizer/settings/settings-blog.php:43
+msgid "Blog / Archive"
+msgstr "Blog / Archivo"
+
+#: inc/customizer/settings/settings-typography.php:23
+msgid "Site Title / Tagline"
+msgstr "Título y descripción corta del sitio"
+
+#: inc/theme-mods.php:129
+msgid "Search Toggle"
+msgstr "Alternar búsqueda"
+
+#: inc/integration/edd/edd-functions.php:75
+msgid "Easy Digital Downloads Product Page Sidebar"
+msgstr "Barra lateral de la página de producto de Easy Digital Downloads"
+
+#: inc/integration/edd/edd-functions.php:64
+msgid "Easy Digital Downloads Sidebar"
+msgstr "Barra lateral de Easy Digital Downloads"
+
+#: inc/integration/edd/edd-customizer-settings.php:81
+msgid "Display Menu Item only on EDD related pages."
+msgstr "Mostrar elemento de menú solo en las páginas relacionadas con EDD."
+
+#: inc/integration/edd/edd-customizer-settings.php:19
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:644
+msgid "Error Notice"
+msgstr "Aviso de error"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:630
+msgid "Success Notice"
+msgstr "Aviso de éxito"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:617
+msgid "Info Notice"
+msgstr "Aviso de información"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:588
+msgid "Store Notice"
+msgstr "Aviso de la tienda"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:81
+msgid "Turn the Search Menu Item into a Product Search."
+msgstr "Convierte el elemento de menú de búsqueda en una búsqueda de productos."
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:80
+msgid "Product Search"
+msgstr "Búsqueda de productos"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:58
+msgid "Notices"
+msgstr "Avisos"
+
+#: inc/integration/edd/edd-functions.php:177
+#: inc/integration/woocommerce/woocommerce-functions.php:575
+msgid "Items in Cart"
+msgstr "Artículos en el carrito"
+
+#: inc/helpers.php:1243
+msgid "<span>1</span> Comment"
+msgstr "<span>1</span> comentario"
+
+#: inc/helpers.php:1502 inc/helpers.php:1508
+#: inc/template-parts/navigation/menu-full-screen.php:32
+#: inc/template-parts/navigation/menu-full-screen.php:39
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:30
+#: inc/template-parts/navigation/menu-mobile-hamburger.php:38
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:34
+#: inc/template-parts/navigation/menu-mobile-off-canvas.php:41
+#: inc/template-parts/navigation/menu-off-canvas-left.php:30
+#: inc/template-parts/navigation/menu-off-canvas-left.php:37
+#: inc/template-parts/navigation/menu-off-canvas.php:36
+#: inc/template-parts/navigation/menu-off-canvas.php:43
+msgid "Menu Toggle"
+msgstr "Alternar menú"
+
+#: inc/settings/metaboxes/customizer.php:21
+#: inc/template-parts/navigation/menu-centered.php:23
+#: inc/template-parts/navigation/menu-full-screen.php:31
+#: inc/template-parts/navigation/menu-full-screen.php:38
+#: inc/template-parts/navigation/menu-left.php:21
+#: inc/template-parts/navigation/menu-off-canvas-left.php:29
+#: inc/template-parts/navigation/menu-off-canvas-left.php:36
+#: inc/template-parts/navigation/menu-off-canvas.php:35
+#: inc/template-parts/navigation/menu-off-canvas.php:42
+#: inc/template-parts/navigation/menu-right.php:27
+#: inc/template-parts/navigation/menu-stacked-advanced.php:37
+#: inc/template-parts/navigation/menu-stacked.php:19
+msgid "Site Navigation"
+msgstr "Navegación del sitio"
+
+#: inc/options.php:125 inc/quick-edit.php:82
+msgid "Page Title"
+msgstr "Título de página"
+
+#: inc/options.php:121 inc/quick-edit.php:72
+msgid "Disable Elements"
+msgstr "Desactivar elementos"
+
+#: inc/options.php:109 inc/options.php:318 inc/quick-edit.php:60
+msgid "Contained"
+msgstr "Contenido"
+
+#: comments.php:49 comments.php:50
+msgid "Comments Navigation"
+msgstr "Navegación de comentarios"
+
+#: searchform.php:24
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: inc/customizer/settings/settings-header.php:1368
+msgid "Icon Size"
+msgstr "Tamaño de icono"
+
+#: inc/customizer/settings/settings-header.php:738
+msgid "Custom \"title\" Tag"
+msgstr "Etiqueta de título personalizada"
+
+#: inc/customizer/settings/settings-header.php:721
+msgid "Custom \"alt\" Tag"
+msgstr "Etiqueta alt personalizada"
+
+#: inc/customizer/settings/settings-general.php:848
+msgid "Primary Font Color"
+msgstr "Color de la fuente principal"
+
+#: inc/customizer/settings/settings-general.php:488
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:70
+msgid "Display Menu Item only on WooCommerce related pages."
+msgstr "Mostrar el elemento del menú sólo en las páginas relacionadas con WooCommerce."
+
+#: inc/integration/edd/edd-customizer-settings.php:80
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:69
+msgid "Hide from non-Shop Pages"
+msgstr "Ocultar de las páginas que no son de la tienda"
+
+#: inc/customizer/settings/settings-footer.php:219
+msgid "Footer Width"
+msgstr "Ancho del pie de página"
+
+#: inc/customizer/settings/settings-header.php:1168
+msgid "Sub Menu Separator"
+msgstr "Separador de submenú"
+
+#: inc/customizer/settings/settings-blog.php:415
+msgid "Headline"
+msgstr "Titular"
+
+#: inc/helpers.php:1210
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#: inc/customizer/settings/settings-general.php:552
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/customizer/settings/settings-general.php:37
+#: inc/customizer/settings/settings-general.php:551
+msgid "404 Page"
+msgstr "Página 404"
+
+#: inc/customizer/settings/settings-general.php:550
+msgid "Search Page"
+msgstr "Página de búsqueda"
+
+#: inc/customizer/settings/settings-general.php:549
+msgid "Single"
+msgstr "Individual"
+
+#: inc/customizer/settings/settings-general.php:547
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: inc/customizer/settings/settings-general.php:541
+msgid "Display Breadcrumbs on"
+msgstr "Mostrar migas de pan en"
+
+#: inc/customizer/settings/settings-general.php:44
+#: inc/customizer/settings/settings-general.php:514
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/customizer/settings/settings-general.php:51
+#: inc/customizer/settings/settings-general.php:748
+#: inc/settings/metaboxes/customizer.php:53
+msgid "Theme Buttons"
+msgstr "Botones del tema"
+
+#: inc/customizer/settings/settings-blog.php:16
+#: inc/settings/metaboxes/customizer.php:41
+msgid "Blog"
+msgstr "Blog"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:377
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:375
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:373
+msgid "Comment Page %s"
+msgstr "Página de comentarios %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:371
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs.php:369
+msgid "Search results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: inc/breadcrumbs.php:367 inc/customizer/settings/settings-general.php:548
+msgid "Archives"
+msgstr "Archivos"
+
+#: inc/breadcrumbs.php:366
+msgid "404 Not Found"
+msgstr "404 Página no encontrada"
+
+#: inc/breadcrumbs.php:365
+msgid "Home"
+msgstr "Página de Inicio"
+
+#: inc/breadcrumbs.php:364
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/customizer/settings/settings-blog.php:314
+#: inc/customizer/settings/settings-blog.php:354
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:454
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:503
+msgid "Active"
+msgstr "Activo"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:404
+msgid "Modern"
+msgstr "Moderno"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:397
+msgid "Tabs Layout"
+msgstr "Estructura de pestañas"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:321
+msgid "Summary Separator"
+msgstr "Separador de resumen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1161
+msgid "Out of Stock Notice"
+msgstr "Aviso de producto agotado"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1121
+msgid "Price Font Size"
+msgstr "Tamaño de letra del precio"
+
+#: inc/customizer/settings/settings-blog.php:666
+#: inc/customizer/settings/settings-blog.php:969
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1082
+msgid "Title Font Size"
+msgstr "Tamaño de fuente del título"
+
+#: inc/customizer/settings/settings-general.php:615
+#: inc/customizer/settings/settings-general.php:1040
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:986
+msgid "Alignment"
+msgstr "Alineación"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:971
+msgid "Square"
+msgstr "Cuadrado"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:970
+msgid "Round"
+msgstr "Redondo"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:867
+msgid "Short Description"
+msgstr "Descripción corta"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:866
+msgid "Add to Cart Button"
+msgstr "Botón de añadir al carrito"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:865
+msgid "Price"
+msgstr "Precio"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:864
+msgid "Rating"
+msgstr "Valoración"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:853
+msgid "Structure"
+msgstr "Estructura"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:818
+msgid "Grid Gap"
+msgstr "Separación de la cuadrícula"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:801
+msgid "Products per Row"
+msgstr "Productos por fila"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:762
+msgid "Hide Breadcrumbs"
+msgstr "Ocultar migas de pan"
+
+#: inc/integration/edd/edd-customizer-settings.php:220
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:220
+msgid "Count"
+msgstr "Cantidad"
+
+#: inc/customizer/settings/settings-general.php:1143
+#: inc/customizer/settings/settings-header.php:1347
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: inc/integration/edd/edd-customizer-settings.php:161
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:161
+msgid "Add a Cart Icon to your Mobile Navigation."
+msgstr "Añade un icono de carrito a la navegación móvil."
+
+#: inc/integration/edd/edd-customizer-settings.php:160
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:160
+msgid "Visibility (Mobile)"
+msgstr "Visibilidad (móvil)"
+
+#: inc/integration/edd/edd-customizer-settings.php:101
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:101
+msgid "Add a Cart Icon to your Main Navigation."
+msgstr "Añade un icono de carrito a la navegación principal."
+
+#: inc/integration/edd/edd-customizer-settings.php:100
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:100
+msgid "Visibility (Desktop)"
+msgstr "Visibilidad (escritorio)"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:28
+msgid "Shop Page"
+msgstr "Página de la tienda"
+
+#: inc/integration/edd/edd-functions.php:161
+#: inc/integration/edd/edd-functions.php:170
+#: inc/integration/woocommerce/woocommerce-functions.php:559
+#: inc/integration/woocommerce/woocommerce-functions.php:568
+msgid "Shopping Cart"
+msgstr "Carrito de la compra"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:392
+msgid "Out of stock"
+msgstr "Agotado"
+
+#: inc/customizer/settings/settings-header.php:1076
+msgid "Menu Item Padding"
+msgstr "Espaciado de elemento de menú"
+
+#: inc/customizer/settings/settings-header.php:783
+msgid "Logo Container Width (Mobile)"
+msgstr "Ancho del contenedor del logotipo (Móvil)"
+
+#: inc/customizer/settings/settings-blog.php:402
+#: inc/customizer/settings/settings-blog.php:763
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:247
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:731
+msgid "Custom Content Width"
+msgstr "Ancho de contenido personalizado"
+
+#: inc/settings/metaboxes/customizer.php:45
+msgid "Post Layout"
+msgstr "Diseño de entrada"
+
+#: inc/template-parts/blog/blog-readmore.php:19
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:702
+msgid "Side by Side"
+msgstr "Lado a lado"
+
+#: inc/customizer/settings/settings-blog.php:714
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:259
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:893
+msgid "Image Alignment"
+msgstr "Alineación de la imagen"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:956
+msgid "Inside"
+msgstr "Interior"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:955
+msgid "Outside"
+msgstr "Exterior"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:948
+msgid "Sale Badge"
+msgstr "Indicador de oferta"
+
+#: inc/customizer/settings/settings-blog.php:607
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:836
+msgid "Content Alignment"
+msgstr "Alineación del contenido"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:782
+msgid "Hide Ordering"
+msgstr "Ocultar orden"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:772
+msgid "Hide Result Count"
+msgstr "Ocultar recuento de resultados"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:44
+msgid "Product Page"
+msgstr "Página de producto"
+
+#: searchform.php:25
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: inc/customizer/settings/settings-header.php:1527
+msgid "Divider Color"
+msgstr "Color de divisor"
+
+#: inc/customizer/settings/settings-typography.php:392
+msgid "The settings below will apply to all headlines if not configured individually."
+msgstr "Los ajustes siguientes se aplicarán a todos los encabezados si no se configuran por separado."
+
+#: sidebar.php:28
+msgid "Add Widgets"
+msgstr "Añadir widgets"
+
+#: sidebar.php:27
+msgid "Your Sidebar Widgets will appear here."
+msgstr "Los widgets de la barra lateral aparecerán aquí."
+
+#: inc/integration/woocommerce/woocommerce-functions.php:82
+msgid "WooCommerce Product Page Sidebar"
+msgstr "Barra lateral de la página de producto de WooCommerce"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:69
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: inc/integration/edd/edd-customizer-settings.php:61
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:570
+msgid "Product Page Sidebar"
+msgstr "Barra lateral de la página de producto"
+
+#: inc/integration/edd/edd-customizer-settings.php:44
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:554
+msgid "Shop Page Sidebar"
+msgstr "Barra lateral de la página de tienda"
+
+#: inc/customizer/settings/settings-header.php:1542
+#: inc/customizer/settings/settings-header.php:1692
+msgid "Sub Menu Arrow Color"
+msgstr "Color de la flecha de submenú"
+
+#: inc/customizer/settings/settings-header.php:767
+#: inc/customizer/settings/settings-header.php:784
+msgid "Defines the space in % the logo area takes in the navigation."
+msgstr "Define el espacio en % que ocupa el área del logotipo en la navegación."
+
+#: inc/customizer/settings/settings-header.php:766
+msgid "Logo Container Width"
+msgstr "Ancho del contenedor del logotipo"
+
+#: inc/customizer/settings/settings-typography.php:105
+#: inc/customizer/settings/settings-typography.php:285
+#: inc/customizer/settings/settings-typography.php:338
+#: inc/customizer/settings/settings-typography.php:391
+#: inc/customizer/settings/settings-typography.php:445
+#: inc/customizer/settings/settings-typography.php:498
+#: inc/customizer/settings/settings-typography.php:551
+#: inc/customizer/settings/settings-typography.php:604
+#: inc/customizer/settings/settings-typography.php:657
+#: inc/customizer/settings/settings-typography.php:710
+msgid "Font Settings"
+msgstr "Ajustes de fuente"
+
+#: inc/customizer/settings/settings-general.php:971
+msgid "Primary Border Color"
+msgstr "Color de borde principal"
+
+#: inc/customizer/settings/settings-general.php:899
+msgid "Border Width"
+msgstr "Ancho del borde"
+
+#: inc/customizer/settings/settings-blog.php:368
+#: inc/customizer/settings/settings-general.php:883
+#: inc/customizer/settings/settings-general.php:1184
+#: inc/customizer/settings/settings-header.php:1413
+msgid "Border Radius"
+msgstr "Radio del borde"
+
+#: inc/customizer/settings/settings-general.php:567
+msgid "Position"
+msgstr "Posición"
+
+#: inc/customizer/settings/settings-typography.php:87
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/settings/settings-typography.php:80
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/settings/settings-typography.php:73
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/settings/settings-typography.php:66
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/settings/settings-typography.php:59
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/settings/settings-typography.php:52
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/settings/settings-typography.php:16
+#: inc/settings/metaboxes/customizer.php:49
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions.php:134
+msgid "Footer Right"
+msgstr "A la derecha del pie de página"
+
+#: functions.php:133
+msgid "Footer Left"
+msgstr "A la izquierda del pie de página"
+
+#: inc/helpers.php:1016
+msgid "Next Post &rarr;"
+msgstr "Entrada siguiente &rarr;"
+
+#: inc/helpers.php:1015
+msgid "&larr; Previous Post"
+msgstr "&larr; Entrada anterior"
+
+#: searchform.php:25
+msgid "Press enter to search"
+msgstr "Presiona intro para buscar"
+
+#. translators: Search query
+#: inc/helpers.php:905
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: inc/helpers.php:159
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-parts/blog/blog-tags.php:18
+#: inc/template-parts/single/single-tags.php:18
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: inc/helpers.php:1228
+msgid "Posted on"
+msgstr "Publicado el"
+
+#: inc/template-parts/blog/blog-categories.php:20
+#: inc/template-parts/single/single-categories.php:20
+msgid "Filed under:"
+msgstr "Archivado en:"
+
+#: inc/template-parts/blog-layouts/beside.php:63
+#: inc/template-parts/blog-layouts/default.php:49
+#: inc/template-parts/blog-layouts/grid.php:51
+#: inc/template-parts/single-layouts/default.php:46 page-sidebar.php:44
+#: page.php:46
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/options.php:173 inc/quick-edit.php:149
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/options.php:168 inc/quick-edit.php:140
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/options.php:104 inc/options.php:314 inc/quick-edit.php:51
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:752
+msgid "Hide Page Title"
+msgstr "Ocultar título de página"
+
+#: inc/options.php:33
+msgid "Template Settings"
+msgstr "Ajustes de plantilla"
+
+#: inc/misc.php:27 inc/misc.php:39 inc/misc.php:66 inc/misc.php:78
+#: inc/misc.php:103 inc/misc.php:109
+msgid "Add Menu"
+msgstr "Añadir menú"
+
+#: inc/customizer/settings/settings-general.php:931
+msgid "Border Color"
+msgstr "Color de borde"
+
+#: inc/customizer/settings/settings-header.php:1232
+msgid "Hamburger"
+msgstr "Hamburguesa"
+
+#: inc/customizer/settings/settings-header.php:1033
+msgid "Sub Menu Alignment"
+msgstr "Alineación del submenú"
+
+#: inc/customizer/settings/settings-header.php:905
+msgid "Menu Item Spacing"
+msgstr "Espacio entre elementos de menú"
+
+#: inc/customizer/settings/settings-header.php:888
+msgid "Menu Height"
+msgstr "Altura del menú"
+
+#: inc/customizer/settings/settings-header.php:848
+#: inc/customizer/settings/settings-header.php:1266
+msgid "Search Icon"
+msgstr "Icono de búsqueda"
+
+#: inc/customizer/settings/settings-header.php:821
+msgid "Stacked"
+msgstr "Apilado"
+
+#: inc/customizer/settings/settings-header.php:820
+msgid "Centered"
+msgstr "Centrado"
+
+#: inc/customizer/settings/settings-header.php:818
+msgid "Right (default)"
+msgstr "Derecha (por defecto)"
+
+#: inc/customizer/settings/settings-footer.php:85
+#: inc/customizer/settings/settings-footer.php:165
+#: inc/customizer/settings/settings-header.php:139
+#: inc/customizer/settings/settings-header.php:219
+#: inc/customizer/settings/settings-header.php:811
+#: inc/customizer/settings/settings-header.php:1224
+#: inc/template-parts/navigation/menu-mobile-default.php:26
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/customizer/settings/settings-header.php:876
+msgid "Navigation Width"
+msgstr "Ancho de la navegación"
+
+#: inc/customizer/settings/settings-header.php:590
+msgid "Display Tagline"
+msgstr "Mostrar descripción corta"
+
+#: inc/customizer/settings/settings-header.php:711
+msgid "Custom Logo URL"
+msgstr "URL de logotipo personalizada"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:328
+#: inc/customizer/settings/settings-blog.php:327
+#: inc/customizer/settings/settings-footer.php:285
+#: inc/customizer/settings/settings-general.php:686
+#: inc/customizer/settings/settings-general.php:785
+#: inc/customizer/settings/settings-header.php:356
+#: inc/customizer/settings/settings-header.php:950
+#: inc/customizer/settings/settings-header.php:1127
+#: inc/customizer/settings/settings-header.php:1502
+#: inc/customizer/settings/settings-header.php:1656
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:358
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:475
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1053
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1099
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1138
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1197
+msgid "Font Color"
+msgstr "Color de fuente"
+
+#: inc/customizer/settings/settings-footer.php:157
+#: inc/customizer/settings/settings-header.php:211
+#: inc/customizer/settings/settings-header.php:245
+#: inc/template-parts/pre-header.php:17
+msgid "Column 2"
+msgstr "Columna 2"
+
+#: inc/customizer/settings/settings-footer.php:77
+#: inc/customizer/settings/settings-header.php:131
+#: inc/customizer/settings/settings-header.php:165
+#: inc/template-parts/pre-header.php:16
+msgid "Column 1"
+msgstr "Columna 1"
+
+#: inc/customizer/settings/settings-footer.php:60
+#: inc/customizer/settings/settings-header.php:114
+msgid "Two Columns"
+msgstr "Dos columnas"
+
+#: inc/customizer/settings/settings-footer.php:59
+#: inc/customizer/settings/settings-header.php:113
+msgid "One Column"
+msgstr "Una columna"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:667
+msgid "Notice Background Color"
+msgstr "Color de fondo del aviso"
+
+#: inc/customizer/settings/settings-blog.php:301
+#: inc/customizer/settings/settings-blog.php:340
+#: inc/customizer/settings/settings-blog.php:655
+#: inc/customizer/settings/settings-footer.php:327
+#: inc/customizer/settings/settings-general.php:726
+#: inc/customizer/settings/settings-general.php:772
+#: inc/customizer/settings/settings-general.php:798
+#: inc/customizer/settings/settings-general.php:835
+#: inc/customizer/settings/settings-general.php:861
+#: inc/customizer/settings/settings-general.php:951
+#: inc/customizer/settings/settings-general.php:991
+#: inc/customizer/settings/settings-general.php:1122
+#: inc/customizer/settings/settings-general.php:1164
+#: inc/customizer/settings/settings-header.php:398
+#: inc/customizer/settings/settings-header.php:522
+#: inc/customizer/settings/settings-header.php:964
+#: inc/customizer/settings/settings-header.php:1112
+#: inc/customizer/settings/settings-header.php:1138
+#: inc/customizer/settings/settings-header.php:1487
+#: inc/customizer/settings/settings-header.php:1513
+#: inc/customizer/settings/settings-header.php:1643
+#: inc/customizer/settings/settings-header.php:1666
+#: inc/customizer/settings/settings-typography.php:173
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:433
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:489
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#: inc/customizer/settings/settings-general.php:383
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:828
+msgid "Collapse"
+msgstr "Contraer"
+
+#: inc/customizer/settings/settings-general.php:382
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:824
+msgid "Small"
+msgstr "Pequeño"
+
+#: inc/customizer/settings/settings-general.php:381
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:825
+msgid "Medium"
+msgstr "Mediano"
+
+#: inc/customizer/settings/settings-general.php:380
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:826
+msgid "Large"
+msgstr "Grande"
+
+#: inc/customizer/settings/settings-general.php:379
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:827
+msgid "xLarge"
+msgstr "Extragrande"
+
+#: inc/customizer/settings/settings-general.php:378
+msgid "Divider"
+msgstr "Separador"
+
+#: inc/customizer/settings/settings-general.php:302
+msgid "Vertical"
+msgstr "Vertical"
+
+#: inc/customizer/settings/settings-general.php:275
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: inc/customizer/settings/settings-general.php:248
+msgid "Spread"
+msgstr "Extender"
+
+#: inc/customizer/settings/settings-general.php:221
+msgid "Blur"
+msgstr "Desenfocar"
+
+#: inc/customizer/settings/settings-general.php:203
+msgid "Box Shadow"
+msgstr "Sombra de la caja"
+
+#: inc/customizer/settings/settings-general.php:110
+msgid "Margin"
+msgstr "Margen"
+
+#: inc/customizer/settings/settings-blog.php:543
+#: inc/customizer/settings/settings-blog.php:892
+msgid "Boxed"
+msgstr "Encajonado"
+
+#: inc/customizer/settings/settings-blog.php:405
+#: inc/customizer/settings/settings-blog.php:766
+#: inc/customizer/settings/settings-footer.php:220
+#: inc/customizer/settings/settings-general.php:72
+#: inc/customizer/settings/settings-header.php:291
+#: inc/customizer/settings/settings-header.php:877
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:250
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:734
+msgid "Default: 1200px"
+msgstr "Por defecto: 1200px"
+
+#: inc/customizer/settings/settings-general.php:68
+msgid "Page Width"
+msgstr "Ancho de página"
+
+#: inc/customizer/settings/settings-blog.php:869 inc/helpers.php:1010
+#: inc/helpers.php:1012
+msgid "Post Navigation"
+msgstr "Navegación por entradas"
+
+#: inc/customizer/settings/settings-blog.php:101
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/customizer/settings/settings-blog.php:503
+#: inc/customizer/settings/settings-blog.php:828
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/customizer/settings/settings-blog.php:502
+#: inc/customizer/settings/settings-blog.php:827
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/customizer/settings/settings-blog.php:501
+#: inc/customizer/settings/settings-blog.php:826
+msgid "Read More"
+msgstr "Seguir leyendo"
+
+#: inc/customizer/settings/settings-blog.php:469
+#: inc/customizer/settings/settings-blog.php:810 inc/options.php:130
+#: inc/quick-edit.php:91
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: inc/customizer/settings/settings-blog.php:83
+#: inc/customizer/settings/settings-blog.php:468
+#: inc/customizer/settings/settings-blog.php:809
+msgid "Meta Data"
+msgstr "Meta datos"
+
+#: inc/customizer/settings/settings-blog.php:467
+#: inc/customizer/settings/settings-blog.php:808
+#: inc/customizer/settings/settings-general.php:465
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:863
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/settings/settings-blog.php:442
+#: inc/customizer/settings/settings-blog.php:783
+#: inc/customizer/settings/settings-general.php:364
+#: inc/integration/edd/edd-customizer-settings.php:53
+#: inc/integration/edd/edd-customizer-settings.php:70
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:562
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:578
+#: inc/options.php:178 inc/quick-edit.php:158
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/settings/settings-blog.php:439
+#: inc/customizer/settings/settings-blog.php:780
+#: inc/integration/edd/edd-customizer-settings.php:50
+#: inc/integration/edd/edd-customizer-settings.php:67 inc/options.php:94
+#: inc/options.php:163 inc/options.php:322 inc/quick-edit.php:42
+#: inc/quick-edit.php:131
+msgid "Inherit Global Settings"
+msgstr "Heredar ajustes globales"
+
+#: inc/customizer/settings/settings-blog.php:528
+msgid "Image Beside Post"
+msgstr "Imagen junto a la entrada"
+
+#: inc/customizer/settings/settings-blog.php:239
+msgid "Read More Text"
+msgstr "Texto Leer más"
+
+#: inc/customizer/settings/settings-blog.php:222
+msgid "Button (Primary)"
+msgstr "Botón (Principal)"
+
+#: inc/customizer/settings/settings-blog.php:221
+msgid "Button"
+msgstr "Botón"
+
+#: inc/customizer/settings/settings-blog.php:220
+#: inc/customizer/settings/settings-footer.php:84
+#: inc/customizer/settings/settings-footer.php:109
+#: inc/customizer/settings/settings-footer.php:164
+#: inc/customizer/settings/settings-footer.php:189
+#: inc/customizer/settings/settings-general.php:476
+#: inc/customizer/settings/settings-header.php:138
+#: inc/customizer/settings/settings-header.php:163
+#: inc/customizer/settings/settings-header.php:218
+#: inc/customizer/settings/settings-header.php:243
+#: inc/customizer/settings/settings-typography.php:45
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer/settings/settings-blog.php:214
+msgid "Read More Link"
+msgstr "Enlace Leer más"
+
+#: inc/customizer/settings/settings-blog.php:164
+msgid "By default the excerpt length is set to return 55 words."
+msgstr "La longitud predeterminada del extracto es de 55 palabras."
+
+#: inc/customizer/settings/settings-blog.php:163
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/settings/settings-blog.php:422
+#: inc/customizer/settings/settings-blog.php:877
+#: inc/customizer/settings/settings-general.php:504
+#: inc/integration/edd/edd-customizer-settings.php:108
+#: inc/integration/edd/edd-customizer-settings.php:168
+#: inc/integration/edd/edd-customizer-settings.php:227
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:108
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:168
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:227
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:326
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:350
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:954
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1168
+msgid "Hide"
+msgstr "Ocultar"
+
+#: inc/customizer/settings/settings-blog.php:421
+#: inc/customizer/settings/settings-general.php:503
+#: inc/integration/edd/edd-customizer-settings.php:107
+#: inc/integration/edd/edd-customizer-settings.php:167
+#: inc/integration/edd/edd-customizer-settings.php:226
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:107
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:167
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:226
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:327
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:349
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1167
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/customizer/settings/settings-blog.php:99
+msgid "Author"
+msgstr "Autor"
+
+#: inc/customizer/settings/settings-header.php:25
+msgid "Pre Header"
+msgstr "Precabecera"
+
+#: inc/customizer/settings/settings-header.php:79
+msgid "Mobile Navigation"
+msgstr "Navegación móvil"
+
+#: inc/customizer/settings/settings-header.php:61
+#: inc/customizer/settings/settings-typography.php:37
+msgid "Sub Menu"
+msgstr "Submenú"
+
+#: inc/customizer/settings/settings-header.php:43
+#: inc/customizer/settings/settings-typography.php:30
+msgid "Navigation"
+msgstr "Navegación"
+
+#: inc/customizer/settings/settings-blog.php:643
+#: inc/customizer/settings/settings-footer.php:306
+#: inc/customizer/settings/settings-general.php:706
+#: inc/customizer/settings/settings-header.php:377
+#: inc/customizer/settings/settings-typography.php:160
+#: inc/integration/lifterlms/lifterlms-customizer-settings.php:72
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: inc/customizer/settings/settings-blog.php:51
+#: inc/customizer/settings/settings-blog.php:70
+#: inc/customizer/settings/settings-blog.php:521
+#: inc/customizer/settings/settings-general.php:23
+#: inc/customizer/settings/settings-header.php:106
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:695
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:878
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:964
+#: inc/options.php:90 inc/options.php:289 inc/quick-edit.php:32
+#: inc/settings/metaboxes/customizer.php:33
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/customizer/settings/settings-blog.php:494
+#: inc/customizer/settings/settings-blog.php:819
+#: inc/customizer/settings/settings-footer.php:16
+#: inc/customizer/settings/settings-footer.php:52
+#: inc/customizer/settings/settings-typography.php:94 inc/options.php:140
+#: inc/quick-edit.php:109 inc/settings/metaboxes/customizer.php:29
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/settings/settings-blog.php:459
+#: inc/customizer/settings/settings-blog.php:800
+#: inc/customizer/settings/settings-header.php:16 inc/options.php:135
+#: inc/quick-edit.php:100 inc/settings/metaboxes/customizer.php:25
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/settings/settings-blog.php:23
+#: inc/customizer/settings/settings-footer.php:37
+#: inc/customizer/settings/settings-general.php:16
+#: inc/customizer/settings/settings-header.php:30
+#: inc/customizer/settings/settings-header.php:48
+#: inc/customizer/settings/settings-header.php:66
+#: inc/customizer/settings/settings-header.php:84
+msgid "General"
+msgstr "General"
+
+#: inc/customizer/settings/settings-premium.php:17
+msgid "Get all features with the <a href=\"%1s\" target=\"_blank\">Premium Add-On</a>!"
+msgstr "Obtén todas las características con <a href=\"%1s\" target=\"_blank\">la extensión Premium</a>!"
+
+#: inc/customizer/settings/settings-premium.php:23
+msgid "Premium Features available!"
+msgstr "¡Características premium disponibles!"
+
+#: inc/customizer/settings/settings-setup.php:27
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/settings/settings-setup.php:26
+#: inc/settings/metaboxes/customizer.php:17
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/customizer/settings/settings-blog.php:572
+#: inc/customizer/settings/settings-blog.php:932
+#: inc/customizer/settings/settings-general.php:133
+#: inc/customizer/settings/settings-general.php:423
+#: inc/customizer/settings/settings-header.php:1451
+msgid "Padding"
+msgstr "Relleno"
+
+#: inc/helpers.php:182
+msgid "Your comment has yet to be approved."
+msgstr "Tu comentario aún no se ha aprobado."
+
+#: inc/helpers.php:171
+msgid "F d, Y"
+msgstr "d \\d\\e F, Y"
+
+#: inc/helpers.php:122
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:155 inc/customizer/settings/settings-blog.php:433
+#: inc/customizer/settings/settings-blog.php:774
+#: inc/customizer/settings/settings-general.php:30
+#: inc/integration/edd/edd-customizer-settings.php:33
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:51
+#: inc/options.php:36 inc/quick-edit.php:121
+#: inc/settings/metaboxes/customizer.php:37
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:123
+msgid "Pre Header Right"
+msgstr "Precabecera derecha"
+
+#: functions.php:122
+msgid "Pre Header Left"
+msgstr "Precabecera izquierda"
+
+#: functions.php:111
+msgid "Mobile Menu"
+msgstr "Menú móvil"
+
+#: functions.php:110
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "Últimos comentarios &raquo;"
+
+#: comments.php:51
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:43
+msgid "Reply"
+msgstr "Responder"
+
+#: comments.php:33 inc/helpers.php:1244
+msgid "<span>%</span> Comments"
+msgstr "<span>%</span> comentarios"
+
+#: comments.php:32
+msgid "<span>One</span> Comment"
+msgstr "<span>Un</span> comentario"
+
+#: comments.php:31 inc/helpers.php:1242
+msgid "<span>No</span> Comments"
+msgstr "<span>No hay</span> comentarios"
+
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:862
+msgid "Category"
+msgstr "Categoría"
+
+#: assets/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Aviso importante de actualización:"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:182
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:179
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:174
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:169
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Book 300"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Light 200"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:162
+#: assets/kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#. translators: The title.
+#: assets/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "Personalizando &#9656; %s"
+
+#: assets/kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Personalización"
+
+#: assets/kirki/kirki-packages/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s o %2$s"
+
+#: assets/kirki/kirki-packages/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Los campos de Kirki no deben añadirse en customize_register. Por favor, añádelos directamente, o en init."
+
+#: assets/kirki/kirki-packages/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "Hemos detectado que estás usando `Kirki\\Compatibility\\Init::get_variables()`. Por favor, usa `\\Kirki\\Util\\Util::get_variables()` en su lugar."
+
+#. translators: The field ID where the error occurs.
+#: assets/kirki/kirki-packages/compatibility/src/Field.php:514
+#: assets/kirki/kirki-packages/compatibility/src/Field.php:525
+#: assets/kirki/kirki-packages/module-css/src/CSS.php:133
+#: assets/kirki/kirki-packages/module-css/src/CSS.php:144
+#: assets/kirki/kirki-packages/module-postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "Formato no válido de \"output\" en el campo %s. El argumento \"output\" debe ser definido como un array de arrays."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: assets/kirki/kirki-packages/compatibility/src/Field.php:388
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "Entrada \"partial_refresh\" no válida en el capo %s"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: assets/kirki/kirki-packages/compatibility/src/Field.php:272
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "No se ha definido configuración para el campo %1$s - Mira en %2$s detalles sobre cómo añadir campos correctamente."
+
+#. translators: %s represents the field ID where the error occurs.
+#: assets/kirki/kirki-packages/compatibility/src/Field.php:261
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Errata en campo %s - setting en lugar de settings."
+
+#: inc/customizer/settings/settings-general.php:329
+#: inc/customizer/settings/settings-header.php:502
+#: inc/customizer/settings/settings-header.php:647
+#: inc/customizer/settings/settings-header.php:1180
+#: inc/customizer/settings/settings-typography.php:146
+#: inc/integration/edd/edd-customizer-settings.php:125
+#: inc/integration/edd/edd-customizer-settings.php:185
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:125
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:185
+msgid "Color"
+msgstr "Color"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "Margen inferior"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "Margen superior"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "Tachado"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "Raya superior"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "Subrayado"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "Inicial"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:362
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:382
+#: inc/customizer/settings/settings-footer.php:58
+#: inc/customizer/settings/settings-footer.php:83
+#: inc/customizer/settings/settings-footer.php:163
+#: inc/customizer/settings/settings-header.php:112
+#: inc/customizer/settings/settings-header.php:137
+#: inc/customizer/settings/settings-header.php:217
+msgid "None"
+msgstr "Nada"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "Transformación de texto"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "Justificar"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "Alineación del texto"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:274
+#: inc/customizer/settings/settings-typography.php:116
+#: inc/customizer/settings/settings-typography.php:218
+#: inc/customizer/settings/settings-typography.php:261
+#: inc/customizer/settings/settings-typography.php:296
+#: inc/customizer/settings/settings-typography.php:349
+#: inc/customizer/settings/settings-typography.php:403
+#: inc/customizer/settings/settings-typography.php:456
+#: inc/customizer/settings/settings-typography.php:509
+#: inc/customizer/settings/settings-typography.php:562
+#: inc/customizer/settings/settings-typography.php:615
+#: inc/customizer/settings/settings-typography.php:668
+#: inc/customizer/settings/settings-typography.php:721
+msgid "Font Family"
+msgstr "Familia de fuente"
+
+#: assets/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Desactivado"
+
+#: assets/kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "Encendido"
+
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "Cambiar archivo"
+
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "Añadir archivo"
+
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "Cambiar la imagen"
+
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "Añadir imagen"
+
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:443
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "Ninguna imagen seleccionada"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "Límite: %s filas"
+
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Selecciona una página"
+
+#. translators: %s represents the label of the row.
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "Añadir %s"
+
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "fila"
+
+#: assets/kirki/kirki-packages/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Elegir una imagen"
+
+#: assets/kirki/kirki-packages/control-image/src/Control/Image.php:82
+#: assets/kirki/kirki-packages/control-image/src/Field/Image.php:115
+#: assets/kirki/kirki-packages/control-image/dist/control.js:1
+#: assets/kirki/kirki-packages/control-image/src/control.js:100
+#: assets/kirki/kirki-packages/control-image/dist/control.js:100
+msgid "No image selected"
+msgstr "Ninguna imagen seleccionada"
+
+#: assets/kirki/kirki-packages/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Cambiar imagen"
+
+#: assets/kirki/kirki-packages/control-image/src/Control/Image.php:89
+#: assets/kirki/kirki-packages/control-image/src/Field/Image.php:111
+#: assets/kirki/kirki-packages/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Seleccionar imagen"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:72
+#: inc/customizer/settings/settings-general.php:391
+msgid "Width"
+msgstr "Ancho"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "Espaciado"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:73
+#: inc/customizer/settings/settings-footer.php:239
+#: inc/customizer/settings/settings-header.php:310
+#: inc/customizer/settings/settings-header.php:1309
+msgid "Height"
+msgstr "Altura"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Tamaño"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:69
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "Centrar"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:68
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:353
+#: inc/customizer/settings/settings-blog.php:440
+#: inc/customizer/settings/settings-blog.php:781
+#: inc/customizer/settings/settings-general.php:362
+#: inc/integration/edd/edd-customizer-settings.php:51
+#: inc/integration/edd/edd-customizer-settings.php:68
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:560
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:576
+msgid "Right"
+msgstr "Derecha"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:67
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:351
+#: inc/customizer/settings/settings-blog.php:441
+#: inc/customizer/settings/settings-blog.php:782
+#: inc/customizer/settings/settings-general.php:363
+#: inc/customizer/settings/settings-header.php:819
+#: inc/integration/edd/edd-customizer-settings.php:52
+#: inc/integration/edd/edd-customizer-settings.php:69
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:561
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:577
+msgid "Left"
+msgstr "Izquierda"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Abajo"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "Arriba"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "Espaciado de palabra"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:63
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "Espaciado de letra"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "Estilo de fuente"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:61
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "Alto de línea"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Grosor de fuente"
+
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:59
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:323
+#: inc/customizer/settings/settings-blog.php:383
+#: inc/customizer/settings/settings-blog.php:680
+#: inc/customizer/settings/settings-blog.php:983
+#: inc/customizer/settings/settings-footer.php:347
+#: inc/customizer/settings/settings-header.php:418
+#: inc/customizer/settings/settings-header.php:541
+#: inc/customizer/settings/settings-header.php:671
+#: inc/customizer/settings/settings-header.php:977
+#: inc/customizer/settings/settings-header.php:1151
+#: inc/customizer/settings/settings-header.php:1555
+#: inc/customizer/settings/settings-header.php:1704
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:371
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:516
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1008
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1217
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: assets/kirki/kirki-packages/control-dimension/src/Control/Dimension.php:67
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "Valor no válido"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Fuentes de Google"
+
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "Fuentes estándar"
+
+#: assets/kirki/kirki-packages/control-image/src/Control/Image.php:87
+#: assets/kirki/kirki-packages/control-image/src/Field/Image.php:113
+#: assets/kirki/kirki-packages/field-typography/src/Field/Typography.php:852
+#: inc/customizer/settings/settings-blog.php:527
+#: inc/customizer/settings/settings-blog.php:542
+#: inc/customizer/settings/settings-blog.php:891
+#: inc/customizer/settings/settings-header.php:1231
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:403
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:701
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:883
+msgid "Default"
+msgstr "Por defecto"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr "Fijo"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr "Scroll"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "Fijación del fondo"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:196
+msgid "Auto"
+msgstr "Automático"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:195
+msgid "Contain"
+msgstr "Contener"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:194
+msgid "Cover"
+msgstr "Cubrir"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr "Tamaño de fondo"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:161
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "Abajo centro"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:160
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "Centro centro"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:159
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "Arriba centro"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:164
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "Abajo derecha"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:163
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "Centro derecha"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:162
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "Arriba derecha"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:158
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "Abajo izquierda"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:157
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "Centro izquierda"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:156
+#: assets/kirki/kirki-packages/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "Arriba izquierda"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr "Posición del Fondo"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr "Repetir todo"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr "No repetir"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+#: assets/kirki/kirki-packages/control-image/src/Control/Image.php:85
+#: assets/kirki/kirki-packages/control-image/src/Field/Image.php:114
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:453
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:485
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "Eliminar"
+
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:475
+#: assets/kirki/kirki-packages/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "Ningún archivo seleccionado"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: assets/kirki/kirki-packages/field-background/src/Background.php:84
+#: inc/customizer/settings/settings-blog.php:288
+#: inc/customizer/settings/settings-blog.php:623
+#: inc/customizer/settings/settings-blog.php:950
+#: inc/customizer/settings/settings-footer.php:263
+#: inc/customizer/settings/settings-general.php:182
+#: inc/customizer/settings/settings-general.php:450
+#: inc/customizer/settings/settings-general.php:660
+#: inc/customizer/settings/settings-general.php:759
+#: inc/customizer/settings/settings-general.php:822
+#: inc/customizer/settings/settings-general.php:1101
+#: inc/customizer/settings/settings-header.php:334
+#: inc/customizer/settings/settings-header.php:935
+#: inc/customizer/settings/settings-header.php:1097
+#: inc/customizer/settings/settings-header.php:1326
+#: inc/customizer/settings/settings-header.php:1472
+#: inc/customizer/settings/settings-header.php:1630
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:412
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1032
+#: inc/integration/woocommerce/woocommerce-customizer-settings.php:1176
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: inc/helpers.php:1039
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: inc/helpers.php:1038
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: inc/template-parts/article-none.php:18
+msgid "Something went wrong."
+msgstr "Algo ha salido mal."
+
+#: inc/template-parts/article-none.php:13
+msgid "Oops, this article couldn't be found!"
+msgstr "¡Vaya!, ¡No se ha podido encontrar ese artículo!"
+
+#: inc/customizer/settings/settings-general.php:479
+#: inc/template-parts/404.php:31
+msgid "Oops! We're sorry, this page couldn't be found!"
+msgstr "¡Vaya! ¡Lo siento, no se ha podido encontrar esa página!"
+
+#: inc/customizer/settings/settings-general.php:468
+#: inc/template-parts/404.php:27
+msgid "404 - This page couldn't be found."
+msgstr "404 - Página no encontrada."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://mapsteps.com"
+msgstr "https://mapsteps.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "David Vongries"
+msgstr "David Vongries"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wp-pagebuilderframework.com"
+msgstr "https://wp-pagebuilderframework.com"

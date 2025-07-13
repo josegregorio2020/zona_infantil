@@ -1,0 +1,2797 @@
+# Translation of Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-23 17:45:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release)\n"
+
+#: com/libs/SGPBImporter.php:1330
+msgid "Import Popups"
+msgstr "Importar ventanas emergentes"
+
+#: com/libs/SGPBImporter.php:1198
+msgid "The uploaded file could not be moved"
+msgstr "El archivo subido no se ha podido mover"
+
+#: com/libs/SGPBImporter.php:1183
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Lo siento, este tipo de archivo no está permitido por razones de seguridad."
+
+#: com/libs/SGPBImporter.php:1138
+msgid "Downloaded file has incorrect size"
+msgstr "El archivo descargado tiene un tamaño incorrecto"
+
+#. translators: 1: The HTTP error message. 2: The HTTP error code.
+#: com/libs/SGPBImporter.php:1114
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr "El servidor remoto ha devuelto el siguiente resultado inesperado: %1$s (%2$s)"
+
+#. translators: 1: The WordPress error message. 2: The WordPress error code.
+#: com/libs/SGPBImporter.php:1098
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr "Solicitud fallida debido a un error: %1$s (%2$s)"
+
+#: com/libs/SGPBImporter.php:1076
+msgid "Could not create temporary file."
+msgstr "No se pudo crear el archivo temporal."
+
+#: com/libs/SGPBImporter.php:172
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Recuerda actualizar las contraseñas y los perfiles de los usuarios importados."
+
+#. translators: %d the number of imported subscribers.
+#: com/classes/Ajax.php:710
+msgid " There are %d existing subscribers."
+msgstr " Hay %d suscriptores existentes."
+
+#: public/views/settings.php:137
+msgid "Use this token in both your old and new site to move your data."
+msgstr "Usa este tocen tanto en tu sitio antiguo como en el nuevo para mover tus datos."
+
+#: public/views/settings.php:130
+msgid "Token to Import/Export"
+msgstr "Token para importar/exportar"
+
+#: public/views/settings.php:120
+msgid "Disable The Enctyption Data For Import/Export of Subscribers"
+msgstr "Desactiva los datos de cifrado para la importación/exportación de suscriptores"
+
+#: com/libs/SGPBImporter.php:127
+msgid "Invalid file type."
+msgstr "Tipo de archivo no válido."
+
+#. Plugin Name of the plugin
+#: popup-builder.php
+msgid "Popup Builder - Create highly converting, mobile friendly marketing popups."
+msgstr "Popup Builder - Create highly converting, mobile friendly marketing popups."
+
+#: public/views/settings.php:73
+msgid "Disable CUSTOM JS feature"
+msgstr "Desactivar la función JS PERSONALIZADO"
+
+#: com/classes/Feedback.php:107
+msgid "If you have a moment, please share why you are deactivating "
+msgstr "Si tienes un momento, por favor, comparte por qué estás desactivando "
+
+#: com/classes/Ajax.php:107 com/classes/Ajax.php:134 com/classes/Ajax.php:161
+msgid "You do not have permission to do this action!"
+msgstr "¡No tienes permiso para realizar esta acción!"
+
+#. translators: POPUP SUBSCRIPTION URL
+#: public/views/options/subscription.php:332
+msgid "Get the <a href=\"%s\">Subscription Plus</a> extension to add or customize the form fields."
+msgstr "Consigue la extensión <a href=\"%s\">Suscripción Plus</a> para añadir o personalizar los campos del formulario."
+
+#: com/helpers/AdminHelper.php:1213
+msgid "times!"
+msgstr "veces!"
+
+#: com/helpers/AdminHelper.php:1211
+msgid "popup with your visitors for"
+msgstr "ventana emergente con tus visitantes de"
+
+#: com/helpers/AdminHelper.php:1209
+msgid "plugin helped you to share your message via"
+msgstr "te ayudó a compartir tu mensaje a través de"
+
+#: com/helpers/AdminHelper.php:1207
+msgid "Awesome news!"
+msgstr "¡Una noticia estupenda!"
+
+#: com/helpers/AdminHelper.php:1006
+msgid "days, we are thankful for that."
+msgstr "días, estamos agradecidos por ello."
+
+#: com/helpers/AdminHelper.php:1004
+msgid "We have noticed that you are using Popup Builder plugin on your site for"
+msgstr "Nos hemos dado cuenta de que llevas utilizando el plugin Popup Builder en tu sitio"
+
+#: com/helpers/AdminHelper.php:1003
+msgid "This is great!"
+msgstr "¡Eso es genial!"
+
+#. translators: user Email, subscription Form Title
+#: com/helpers/AdminHelper.php:952
+msgid "User with %1$s email has unsubscribed from %2$s mail list"
+msgstr "El usuario con el correo electrónico %1$s se ha dado de baja de la lista de correo %2$s"
+
+#: com/helpers/AdminHelper.php:934
+msgid " to go to the home page."
+msgstr " para ir a la página de inicio."
+
+#: com/helpers/AdminHelper.php:932
+msgid "You have successfully unsubscribed."
+msgstr "Te has dado de baja correctamente."
+
+#. translators: Ticket URL
+#: com/helpers/AdminHelper.php:776
+msgid "In case of any issues, please contact us <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Si tienes algún problema, ponte en contacto con nosotros <a href=\"%s\" target=\"_blank\">aquí</a>."
+
+#. translators: Website Blog info
+#: com/config/dataConfig.php:967
+msgid "%s will use the information you provide on this form to be in touch with you and to provide updates and marketing."
+msgstr "%s utilizará la información que nos facilites en este formulario para estar en contacto contigo y proporcionarte actualizaciones y marketing."
+
+#: com/classes/Updates.php:95 com/classes/Updates.php:129
+#: com/classes/Updates.php:166
+msgid "You do not have permission to access this page!"
+msgstr "¡No tienes permiso para acceder a esta página!"
+
+#. translators: 1: SG POPUP MINIMUM PHP VERSION 2: PHP VERSION
+#: com/classes/SGPBRequirementsChecker.php:13
+msgid "Popup Builder plugin requires PHP version >= %1$s version required. You server using PHP version = %2$s"
+msgstr "El plugin Popup Builder requiere una versión de PHP >= %1$s. Tu servidor utiliza la versión de PHP = %2$s"
+
+#: com/classes/popups/SubscriptionPopup.php:492
+msgid "Subscription Settings"
+msgstr "Ajustes de la suscripción"
+
+#: com/classes/popups/ImagePopup.php:35
+msgid "Image Settings"
+msgstr "Ajustes de imagen"
+
+#: com/classes/popups/FblikePopup.php:16
+msgid "Facebook Settings"
+msgstr "Ajustes de Facebook"
+
+#: com/classes/Filters.php:525
+msgid "Custom JS or CSS"
+msgstr "JS o CSS personalizados"
+
+#: com/classes/Filters.php:516
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: com/classes/Filters.php:507
+msgid "Floating Button"
+msgstr "Botón flotante"
+
+#: com/classes/Filters.php:483
+msgid "Dimensions"
+msgstr "Dimensiones"
+
+#: com/classes/Filters.php:475
+msgid "Closing"
+msgstr "Cierre"
+
+#: com/classes/Filters.php:467
+msgid "Design"
+msgstr "Diseño"
+
+#: com/classes/Filters.php:459
+msgid "Behavior After Special Events"
+msgstr "Comportamiento después de eventos especiales"
+
+#: com/classes/Filters.php:443
+msgid "Events"
+msgstr "Eventos"
+
+#: com/classes/Filters.php:435
+msgid "Display Rules"
+msgstr "Reglas de visualización"
+
+#: com/classes/Filters.php:427
+msgid "Main Options"
+msgstr "Opciones principales"
+
+#: com/classes/Actions.php:1263 com/classes/Actions.php:1272
+#: com/classes/Ajax.php:216 com/classes/Ajax.php:240 com/classes/Ajax.php:289
+#: com/classes/Ajax.php:331 com/classes/Ajax.php:352 com/classes/Ajax.php:373
+#: com/classes/Ajax.php:394 com/classes/Ajax.php:415 com/classes/Ajax.php:470
+#: com/classes/Ajax.php:506 com/classes/Ajax.php:573 com/classes/Ajax.php:604
+#: com/classes/Ajax.php:632 com/classes/Ajax.php:746 com/classes/Ajax.php:790
+#: com/classes/Ajax.php:923 com/classes/Ajax.php:998 com/classes/Ajax.php:1063
+#: com/classes/Ajax.php:1098 com/classes/Ajax.php:1133
+#: com/libs/SGPBImporter.php:370
+msgid "You do not have permission to clone the popup!"
+msgstr "¡No tienes permiso para clonar la ventana emergente!"
+
+#: com/classes/Actions.php:960
+msgid "popupbuilder"
+msgstr "popupbuilder"
+
+#. translators: Link to edit Popup item, location.
+#: com/classes/Actions.php:955
+msgid "Popup Builder plugin has been successfully updated. Please %1$s to go to the new Dashboard of the plugin."
+msgstr "El plugin Popup Builder se ha actualizado correctamente. Por favor, %1$s para ir al nuevo panel de control del plugin."
+
+#. Author of the plugin
+#: popup-builder.php
+msgid "Looking Forward Software Incorporated."
+msgstr "Looking Forward Software Incorporated."
+
+#: com/config/dataConfig.php:424
+msgid "Select Conditions"
+msgstr "Seleccionar condiciones"
+
+#: com/helpers/ConfigDataHelper.php:1270 com/helpers/ConfigDataHelper.php:2570
+msgid "Only pdf files supported"
+msgstr "Solamente se admiten archivos pdf"
+
+#: public/views/popupDesignView.php:164
+msgid "Background settings"
+msgstr "Ajustes del fondo"
+
+#. translators: license Section Url.
+#: com/classes/Actions.php:233 com/classes/Filters.php:338
+msgid "to finalize the activation."
+msgstr "para finalizar la activación."
+
+#. translators: license Section Url.
+#: com/classes/Actions.php:233 com/classes/Filters.php:338
+msgid "Follow the link"
+msgstr "Sigue el enlace"
+
+#: com/libs/WOOSL_CodeAutoUpdate.php:191
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Ha habido un error HTTP inesperado durante la petición API."
+
+#: com/libs/WOOSL_CodeAutoUpdate.php:179 com/libs/WOOSL_CodeAutoUpdate.php:191
+msgid "Try again"
+msgstr "Inténtalo de nuevo"
+
+#: com/libs/WOOSL_CodeAutoUpdate.php:179
+msgid "An error occour when try to identify the plugin."
+msgstr "Ha ocurrido un error al intentar identificar el plugin."
+
+#: public/views/subscribers.php:127
+msgid "Import Subscribers"
+msgstr "Importar suscriptores"
+
+#: public/views/subscribers.php:95
+msgid "Add New Subscribers"
+msgstr "Añadir nuevos suscriptores"
+
+#: public/views/popupTypes.php:53
+msgid "Pro Extensions"
+msgstr "Extensiones Pro"
+
+#: public/views/popupOpeningCounter.php:13
+msgid "Disable popup counting"
+msgstr "Desactivar el recuento del mensaje emergente"
+
+#: public/views/popupDesignView.php:208
+msgid "Recycle Bin"
+msgstr "Papelera de reciclaje"
+
+#: public/views/popupDesignView.php:205
+msgid "Cloud icon"
+msgstr "Icono de nube"
+
+#: public/views/floatingButton.php:49
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: public/views/floatingButton.php:48
+msgid "Bottom Center"
+msgstr "Abajo al centro"
+
+#: public/views/floatingButton.php:47
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: public/views/floatingButton.php:44
+msgid "Right Center"
+msgstr "Derecha al centro"
+
+#: public/views/floatingButton.php:39
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: public/views/floatingButton.php:38
+msgid "Top Center"
+msgstr "Arriba al centro"
+
+#: public/views/floatingButton.php:37
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: public/views/conditionsView.php:47
+msgid "If you want to unlock Advanced Targeting you need to activate this extension"
+msgstr "Si quieres desbloquear la orientación avanzada, tienes que activar esta extensión"
+
+#: public/views/conditionsView.php:37 public/views/conditionsView.php:64
+msgid "See Less"
+msgstr "Ver menos"
+
+#: public/views/conditionsView.php:27 public/views/conditionsView.php:54
+msgid "More Details"
+msgstr "Más detalles"
+
+#: public/views/conditionsView.php:23 public/views/conditionsView.php:50
+msgid "Buy Now"
+msgstr "Compra ahora"
+
+#: public/views/conditionsView.php:20
+msgid "If you want to unlock Geo Targeting you need to activate this extension"
+msgstr "Si quieres desbloquear la orientación geográfica, tienes que activar esta extensión"
+
+#: public/views/closeSettingsView.php:296
+#: public/views/closeSettingsView.php:327
+#: public/views/closeSettingsView.php:362
+#: public/views/otherConditionsView.php:46 public/views/popupDesignView.php:96
+msgid "Unlock Option"
+msgstr "Opción de desbloqueo"
+
+#: public/views/closeSettingsView.php:190
+msgid "Width&nbsp;"
+msgstr "Anchura&nbsp;"
+
+#: public/views/closeSettingsView.php:150
+msgid "Left"
+msgstr "Izquierda"
+
+#: public/views/closeSettingsView.php:123
+msgid "Top"
+msgstr "Superior"
+
+#: com/helpers/ConfigDataHelper.php:1272 com/helpers/ConfigDataHelper.php:2572
+msgid "L"
+msgstr "L"
+
+#: com/helpers/ConfigDataHelper.php:599 com/helpers/ConfigDataHelper.php:1899
+msgid "Visitor IP"
+msgstr "IP del visitante"
+
+#: com/helpers/ConfigDataHelper.php:598 com/helpers/ConfigDataHelper.php:1898
+msgid "States"
+msgstr "Estados"
+
+#: com/helpers/ConfigDataHelper.php:597 com/helpers/ConfigDataHelper.php:1897
+msgid "Cities"
+msgstr "Ciudades"
+
+#: com/helpers/ConfigDataHelper.php:592 com/helpers/ConfigDataHelper.php:1892
+msgid "URL Query String"
+msgstr "URL de la cadena de consulta"
+
+#: com/helpers/ConfigDataHelper.php:588 com/helpers/ConfigDataHelper.php:1888
+msgid "Referral URL detection"
+msgstr "Detección de la URL del referido"
+
+#: com/classes/Filters.php:491 com/classes/RegisterPostType.php:399
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: com/classes/RegisterPostType.php:101
+msgid "Search"
+msgstr "Buscar"
+
+#: com/classes/Filters.php:814
+msgid "Actions"
+msgstr "Acciones"
+
+#: com/classes/components/Menu.php:215
+msgid "Open a popup once this item is clicked."
+msgstr "Abrir una ventana emergente cuando se haga clic en este elemento."
+
+#: com/classes/components/Menu.php:205
+msgid "Select a Popup"
+msgstr "Selecciona una ventana emergente"
+
+#: com/classes/NotificationCenter.php:98
+msgid "Twice Daily"
+msgstr "Dos veces al día"
+
+#: public/views/settings.php:100
+msgid "Disable popup analytics"
+msgstr "Desactivar el análisis de las ventanas emergentes"
+
+#: public/views/settings.php:63
+msgid "Enable DEBUG MODE"
+msgstr "Activar el MODO DE DEPURACIÓN"
+
+#: public/views/newsletter.php:89
+msgid "Send a Test"
+msgstr "Enviar una prueba"
+
+#: public/views/floatingButton.php:70
+msgid "Border size"
+msgstr "Tamaño del borde"
+
+#: public/views/floatingButton.php:65
+msgid "Position right"
+msgstr "Posición derecha"
+
+#: public/views/floatingButton.php:60
+msgid "Position top"
+msgstr "Posición superior"
+
+#: public/views/floatingButton.php:54
+msgid "Font size"
+msgstr "Tamaño de la fuente"
+
+#: public/views/floatingButton.php:35
+msgid "Position"
+msgstr "Posición"
+
+#: public/views/floatingButton.php:26
+msgid "Style"
+msgstr "Estilo"
+
+#: public/views/floatingButton.php:15
+msgid "Enable"
+msgstr "Activar"
+
+#: com/config/dataConfig.php:990
+msgid "Click it!"
+msgstr "¡Haz clic!"
+
+#: com/helpers/ConfigDataHelper.php:935 com/helpers/ConfigDataHelper.php:2235
+#: public/views/floatingButton.php:29
+msgid "Basic"
+msgstr "Básico"
+
+#: com/helpers/ConfigDataHelper.php:934 com/helpers/ConfigDataHelper.php:2234
+#: public/views/floatingButton.php:28
+msgid "Corner"
+msgstr "Esquina"
+
+#: com/helpers/ConfigDataHelper.php:930 com/helpers/ConfigDataHelper.php:2230
+#: public/views/floatingButton.php:42
+msgid "Left center"
+msgstr "Izquierda centro"
+
+#: com/helpers/ConfigDataHelper.php:929 com/helpers/ConfigDataHelper.php:2229
+msgid "Right center"
+msgstr "Derecha centro"
+
+#: com/helpers/ConfigDataHelper.php:928 com/helpers/ConfigDataHelper.php:2228
+msgid "Bottom center"
+msgstr "Inferior centro"
+
+#: com/helpers/ConfigDataHelper.php:927 com/helpers/ConfigDataHelper.php:2227
+msgid "Top center"
+msgstr "Superior centro"
+
+#: com/helpers/ConfigDataHelper.php:919 com/helpers/ConfigDataHelper.php:926
+#: com/helpers/ConfigDataHelper.php:2219 com/helpers/ConfigDataHelper.php:2226
+msgid "Bottom right"
+msgstr "Inferior derecha"
+
+#: com/helpers/ConfigDataHelper.php:918 com/helpers/ConfigDataHelper.php:925
+#: com/helpers/ConfigDataHelper.php:2218 com/helpers/ConfigDataHelper.php:2225
+msgid "Bottom left"
+msgstr "Inferior izquierda"
+
+#: com/helpers/ConfigDataHelper.php:917 com/helpers/ConfigDataHelper.php:924
+#: com/helpers/ConfigDataHelper.php:2217 com/helpers/ConfigDataHelper.php:2224
+msgid "Top right"
+msgstr "Superior derecha"
+
+#: com/helpers/ConfigDataHelper.php:916 com/helpers/ConfigDataHelper.php:923
+#: com/helpers/ConfigDataHelper.php:2216 com/helpers/ConfigDataHelper.php:2223
+msgid "Top left"
+msgstr "Superior izquierda"
+
+#: public/views/newsletter.php:34
+msgid "Test email was successfully sent"
+msgstr "El correo electrónico de prueba se envió correctamente"
+
+#: com/classes/RegisterPostType.php:91
+msgctxt "post type general name"
+msgid "Popup Builder"
+msgstr "Maquetador de mensajes emergentes"
+
+#: com/helpers/ConfigDataHelper.php:591 com/helpers/ConfigDataHelper.php:1891
+msgid "Web Browser"
+msgstr "Navegador web"
+
+#: com/classes/Filters.php:213
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: com/classes/Filters.php:206
+msgid "Docs"
+msgstr "Documentación"
+
+#: com/classes/Filters.php:180
+msgid "Rate us"
+msgstr "Valóranos"
+
+#: com/classes/Feedback.php:77
+msgid "Having troubles? You can always count on us. Please try to contact us via <a href=\"https://popup-builder.com/\">Live chat</a> or send a message to <a href=\"mailto:support@popup-builder.com\">support@popup-builder.com</a>"
+msgstr "¿Estás teniendo problemas? Siempre puedes contar con nosotros. Por favor, trata de contactarnos en el <a href=\"https://popup-builder.com/\">chat en directo</a> o envíanos un mensaje a <a href=\"mailto:support@popup-builder.com\">support@popup-builder.com</a>"
+
+#: com/classes/Feedback.php:136
+msgid "Skip & Deactivate"
+msgstr "Saltar y desactivar"
+
+#: com/classes/Feedback.php:133
+msgid "Submit & Deactivate"
+msgstr "Enviar y desactivar"
+
+#: com/classes/Feedback.php:109
+msgid "Please, select an option."
+msgstr "Por favor, selecciona una opción."
+
+#: com/classes/Feedback.php:96
+msgid "Quick Feedback"
+msgstr "Comentario rápido"
+
+#: com/classes/Feedback.php:85
+msgid "Please share the reason"
+msgstr "Por favor, comparte el motivo"
+
+#: com/classes/Feedback.php:84
+msgid "Other"
+msgstr "Otro"
+
+#: com/classes/Feedback.php:80
+msgid "It's a temporary deactivation"
+msgstr "Es una desactivación temporal"
+
+#: com/classes/Feedback.php:75
+msgid "I couldn't get the plugin to work"
+msgstr "No he podido hacer funcionar el plugin"
+
+#: com/classes/Feedback.php:72
+msgid "Please share which plugin"
+msgstr "Por favor, comparte qué plugin"
+
+#: com/classes/Feedback.php:71
+msgid "I found a better plugin"
+msgstr "He encontrado un plugin mejor"
+
+#: com/classes/Feedback.php:67
+msgid "I no longer need the plugin"
+msgstr "Ya no necesito el plugin"
+
+#: com/helpers/AdminHelper.php:993
+msgid "and we will not show it again!"
+msgstr "y ¡no lo volveremos a mostrar!"
+
+#: com/helpers/AdminHelper.php:993
+msgid " Press here "
+msgstr " Pulsa aquí "
+
+#: com/helpers/AdminHelper.php:993
+msgid "Bored of this?"
+msgstr "¿Aburrido de esto?"
+
+#: com/helpers/AdminHelper.php:991
+msgid "LIVE chat"
+msgstr "Chat EN VIVO"
+
+#: com/helpers/AdminHelper.php:990
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: com/helpers/AdminHelper.php:989
+msgid "Support Portal"
+msgstr "Portal de soporte"
+
+#: com/helpers/AdminHelper.php:987
+msgid "Let us know what you think."
+msgstr "Déjanos saber qué piensas."
+
+#: com/helpers/AdminHelper.php:986
+msgid "Need some help?"
+msgstr "¿Necesitas ayuda?"
+
+#: com/helpers/AdminHelper.php:1775
+msgid "No license"
+msgstr "Sin licencia"
+
+#: com/classes/Actions.php:737
+msgid "Once Every Week"
+msgstr "Una vez cada semana"
+
+#: public/views/settings.php:153
+msgid "Download"
+msgstr "Descargar"
+
+#: public/views/settings.php:148
+msgid "System information"
+msgstr "Información del sistema"
+
+#: public/views/settings.php:146
+msgid "Debug tools"
+msgstr "Herramientas de depuración"
+
+#: public/views/dimensionsView.php:52
+msgid "Min height"
+msgstr "Altura mínima"
+
+#: public/views/dimensionsView.php:48
+msgid "Min width"
+msgstr "Ancho mínimo"
+
+#: public/views/dimensionsView.php:42
+msgid "Max height"
+msgstr "Altura máxima"
+
+#: public/views/dimensionsView.php:38
+msgid "Max width"
+msgstr "Ancho máximo"
+
+#: public/views/dimensionsView.php:22
+msgid "Size"
+msgstr "Tamaño"
+
+#: public/views/dimensionsView.php:29 public/views/dimensionsView.php:33
+#: public/views/dimensionsView.php:39 public/views/dimensionsView.php:43
+#: public/views/dimensionsView.php:49 public/views/dimensionsView.php:53
+msgid "It must be number  + px or %"
+msgstr "Debe ser un número  + px o %"
+
+#: public/views/dimensionsView.php:29 public/views/dimensionsView.php:33
+#: public/views/dimensionsView.php:39 public/views/dimensionsView.php:43
+#: public/views/dimensionsView.php:49 public/views/dimensionsView.php:53
+msgid "Ex: 100, 100px or 100%"
+msgstr "Ej.: 100, 100px o 100%"
+
+#: public/views/popupTypes.php:47
+msgid "More Ideas?"
+msgstr "¿Más ideas?"
+
+#: public/views/popupTypes.php:23
+msgid "Get More Extensions"
+msgstr "Obtener más extensiones"
+
+#: com/classes/Filters.php:451
+msgid "Conditions"
+msgstr "Condiciones"
+
+#: public/views/mainActionButtons.php:9
+msgid "Popups"
+msgstr "Mensajes emergentes"
+
+#: public/views/options/subscription.php:318
+msgid "Live Preview"
+msgstr "Vista previa en vivo"
+
+#: public/views/options/subscription.php:276
+msgid "After successful subscription"
+msgstr "Después de una suscripción correcta"
+
+#: public/views/options/subscription.php:266
+msgid "Hide for already subscribed users"
+msgstr "Ocultar para usuarios que ya estén suscritos"
+
+#: public/views/options/subscription.php:256
+msgid "Show form on the Top"
+msgstr "Mostrar el formulario en la parte superior"
+
+#: public/views/options/subscription.php:252
+msgid "Invalid email message"
+msgstr "Mensaje de correo electrónico no válido"
+
+#: public/views/options/subscription.php:248
+msgid "Error message"
+msgstr "Mensaje de error"
+
+#: public/views/options/subscription.php:230
+msgid "Title (in progress)"
+msgstr "Título (en progreso)"
+
+#: public/views/options/subscription.php:198
+msgid "Submit button styles"
+msgstr "Estilos del botón «enviar»"
+
+#: public/views/options/subscription.php:188
+msgid "Placeholder color"
+msgstr "Color del marcador de posición"
+
+#: public/views/options/subscription.php:152
+msgid "Inputs' style"
+msgstr "Estilos de los campos de entrada"
+
+#: public/views/options/subscription.php:147
+msgid "Required field message"
+msgstr "Mensaje de campo obligatorio"
+
+#: public/views/options/subscription.php:110
+#: public/views/options/subscription.php:136
+msgid "Required field"
+msgstr "Campo obligatorio"
+
+#: public/views/options/subscription.php:106
+#: public/views/options/subscription.php:132
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: public/views/options/subscription.php:90
+msgid "Confirmation text"
+msgstr "Texto de confirmación"
+
+#: public/views/options/subscription.php:86
+msgid "Label"
+msgstr "Etiqueta"
+
+#: public/views/options/subscription.php:75
+msgid "Enable GDPR"
+msgstr "Activar el RGPD"
+
+#: public/views/options/subscription.php:71
+msgid "Email placeholder"
+msgstr "Marcador de posición del correo electrónico"
+
+#: public/views/options/subscription.php:64
+msgid "Form padding"
+msgstr "Relleno del formulario"
+
+#: public/views/options/subscription.php:52
+msgid "Form background opacity"
+msgstr "Opacidad del fondo del formulario"
+
+#: public/views/options/subscription.php:44
+msgid "Form background color"
+msgstr "Color del fondo del formulario"
+
+#: public/views/options/subscription.php:40
+msgid "Form background options"
+msgstr "Opciones del fondo del formulario"
+
+#: public/views/options/facebook.php:21
+msgid "Don't show share button"
+msgstr "No mostrar el botón de compartir"
+
+#: public/views/options/facebook.php:17
+msgid "Layout"
+msgstr "Diseño"
+
+#: public/views/customEditor.php:20
+msgid "You may use your custom codes for extra actions connected to the popup opening (before, after, etc.) in the fields below"
+msgstr "Puedes usar código personalizado para acciones adicionales conectadas a la apertura de los mensajes emergentes (antes, después, etc.) en los campos de abajo"
+
+#: public/views/customEditor.php:19
+msgid "This section is for adding custom codes (CSS or JS) for the popup, it requires some coding knowledge"
+msgstr "Esta sección es para añadir código personalizado (CSS o JS) para el mensaje emergente, requiere algo de conocimiento de código"
+
+#: com/helpers/ConfigDataHelper.php:380 com/helpers/ConfigDataHelper.php:407
+#: com/helpers/ConfigDataHelper.php:1680 com/helpers/ConfigDataHelper.php:1707
+msgid "If you need the popup id number in the custom code, you may use the following variable to get the ID:"
+msgstr "Si necesitas el número del ID del mensaje emergente en el código personalizado, puedes usar la siguiente variable para obtener el ID:"
+
+#: public/views/optionsView.php:344
+msgid ""
+"You can add an opening delay for the popup, in seconds. This will refer to custom events, like:\n"
+"\t\t\t\t\t\t\t\t\t\tShortcodes, custom CSS classes, HTML attributes, or JS called custom events."
+msgstr ""
+"Puedes añadir un retraso de apertura en segundos al mensaje emergente. Esto se dirigirá a los eventos personalizados, como:\n"
+"\t\t\t\t\t\t\t\t\t\tEventos persoanlizados llamados desde shortcodes, clases CSS personalizadas, atributos HTML o JS."
+
+#: public/views/optionsView.php:339
+msgid "Custom event delay"
+msgstr "Retraso del evento personalizado"
+
+#: public/views/optionsView.php:332
+msgid "Select the priority number for your popup to appear on the page, along with other popups. The popup with a higher-order number will be behind the others with a lower-order number."
+msgstr "Selecciona el número de prioridad para que aparezca tu mensaje emergente en la página, junto con otros mensajes emergentes. El mensaje emergente con un número de orden más alto estará detrás de los otros con un número de orden más bajo."
+
+#: public/views/optionsView.php:327
+msgid "Popup order"
+msgstr "Orden de los mensajes emergentes"
+
+#: public/views/optionsView.php:320
+msgid "If this option is enabled, the popup will reopen after the form submission."
+msgstr "Si esta opción está activada, el mensaje emergente se volverá a abrir después del envío del formulario."
+
+#: public/views/optionsView.php:309
+msgid "Reopen after form submission"
+msgstr "Volver a abrir después del envío del formulario"
+
+#: public/views/closeSettingsView.php:339
+#: public/views/closeSettingsView.php:350
+msgid "Close popup after the page scroll"
+msgstr "Cerrar mensaje emergente después de hacer scroll en la página"
+
+#: public/views/closeSettingsView.php:304
+#: public/views/closeSettingsView.php:315
+msgid "Auto close popup"
+msgstr "Cerrar automáticamente el mensaje emergente"
+
+#: public/views/optionsView.php:301
+msgid "If the content is larger than the specified dimensions, then the content will be scrollable."
+msgstr "Si el contenido es mayor que las dimensiones especificadas, entonces se podrá hacer scroll en el contenido."
+
+#: public/views/optionsView.php:290
+msgid "Enable content scrolling"
+msgstr "Activar el scroll del contenido"
+
+#: public/views/optionsView.php:283
+msgid "If this option is checked, the page won't scroll until the popup is open."
+msgstr "Si esta opción está marcada, la página no hará scroll hasta que el mensaje emergente esté abierto."
+
+#: public/views/optionsView.php:272
+msgid "Disable page scrolling"
+msgstr "Desactivar el scroll de la página"
+
+#: public/views/optionsView.php:245
+msgid "Popup location"
+msgstr "Ubicación del mensaje emergente"
+
+#: public/views/optionsView.php:215
+msgid "Popup closing animation"
+msgstr "Animación al cerrar el mensaje emergente"
+
+#: public/views/optionsView.php:208 public/views/optionsView.php:239
+msgid "Second(s)"
+msgstr "Segundo(s)"
+
+#: public/views/optionsView.php:202 public/views/optionsView.php:233
+msgid "Speed"
+msgstr "Velocidad"
+
+#: public/views/optionsView.php:184
+msgid "Popup opening animation"
+msgstr "Animación de apertura del mensaje emergente"
+
+#: public/views/popupOpeningCounter.php:27
+msgid "Reset"
+msgstr "Restablecer"
+
+#: public/views/optionsView.php:167
+msgid "If this option is enabled the popup will appear with a sound. The sound option is not available on mobile devices, as there are restrictions on sound auto-play options for mobile devices."
+msgstr "Si esta opción está activada, el mensaje emergente aparecerá con un sonido. La opción del sonido no está disponible en los dispositivos móviles, ya que hay restricciones en las opciones de reproducción automática de sonido para dispositivos móviles."
+
+#: public/views/optionsView.php:155
+msgid "Popup opening sound"
+msgstr "Sonido de apertura del mensaje emergente"
+
+#: public/views/optionsView.php:146
+msgid "If this option is checked the popup showing limitation will be saved for the current page. Otherwise, the limitation will refer site wide, and the popup will be shown for specific times on each page selected.The previously specified count of days will be reset every time you check/uncheck this option."
+msgstr "Si esta opción está marcada, el mensaje emergente que muestra la limitación se guardará para la página actual. De lo contrario, la limitación se referirá a todo el sitio, y el mensaje emergente se mostrará por momentos específicos en cada página seleccionada. El recuento de días especificado previamente se restablecerá cada vez que marques o desmarques esta opción."
+
+#: public/views/optionsView.php:138
+msgid "Apply option on each page"
+msgstr "Aplicar la opción en cada página"
+
+#: public/views/optionsView.php:133
+msgid "Select the count of the days after which the popup will be shown to the same user, or set the value \"0\" if you want to save cookies by session."
+msgstr "Selecciona el recuento de los días después de los cuales se mostrará el mensaje emergente al mismo usuario o establece el valor «0» si deseas guardar las cookies por sesión."
+
+#: public/views/optionsView.php:128
+msgid "Popup showing expiry"
+msgstr "Caducidad de la visualización del mensaje emergente"
+
+#: public/views/optionsView.php:123
+msgid "Select how many times the popup will be shown for the same user."
+msgstr "Selecciona cuántas veces se mostrará el mensaje emergente al mismo usuario."
+
+#: public/views/optionsView.php:118
+msgid "Popup showing count"
+msgstr "El mensaje emergente muestra el recuento"
+
+#: public/views/optionsView.php:111
+msgid "Estimate the popup showing frequency to the same user."
+msgstr "Estima con que frecuencia se muestra el mensaje emergente al mismo usuario."
+
+#: public/views/optionsView.php:100
+msgid "Popup showing limitation"
+msgstr "El mensaje emergente muestra la limitación"
+
+#: public/views/optionsView.php:33
+msgid "Action on popup content click"
+msgstr "Acción del clic sobre el contenido del mensaje emergente"
+
+#: public/views/importPopupsView.php:19
+msgid "Import popups"
+msgstr "Importar los mensajes emergentes"
+
+#: public/views/jsVariableView.php:46
+msgid "Ex. value or data-name"
+msgstr "Ej.: «value» o «data-name»"
+
+#: public/views/jsVariableView.php:40
+msgid "Attribute"
+msgstr "Atributo"
+
+#: public/views/jsVariableView.php:28
+msgid "Ex. #myselector or .myselector"
+msgstr "Ej.. #miselector o .miselector"
+
+#: public/views/jsVariableView.php:22
+msgid "Selector"
+msgstr "Selector"
+
+#: public/views/jsVariableView.php:13
+msgid "Insert JS variable inside the popup"
+msgstr "Insertar la variable JS dentro del mensaje emergente"
+
+#: public/views/closeSettingsView.php:272
+#: public/views/closeSettingsView.php:289
+msgid "The users will not be able to close the popup, if this option is checked."
+msgstr "Los usuarios no podrán cerrar el mensaje emergente si esta opción está marcada."
+
+#: public/views/closeSettingsView.php:261
+#: public/views/closeSettingsView.php:278
+msgid "Disable popup closing"
+msgstr "Desactivar el cierre del mensaje emergente"
+
+#: public/views/closeSettingsView.php:252
+msgid "The popup will close when clicked on the overlay of the popup."
+msgstr "El mensaje emergente se cerrará cuando se haga clic en la superposición del mensaje emergente."
+
+#: public/views/closeSettingsView.php:240
+msgid "Dismiss on overlay click"
+msgstr "Descartar al hacer clic en la superposición"
+
+#: com/helpers/ConfigDataHelper.php:1276 com/helpers/ConfigDataHelper.php:2576
+#: public/views/closeSettingsView.php:232
+msgid "Close"
+msgstr "Cerrar"
+
+#: public/views/closeSettingsView.php:230
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: public/views/closeSettingsView.php:221
+msgid "Popup border radius"
+msgstr "Radio del borde del mensaje emergente"
+
+#: public/views/closeSettingsView.php:214
+msgid "Popup border color"
+msgstr "Color del borde del mensaje emergente"
+
+#: public/views/closeSettingsView.php:162
+msgid "Button image"
+msgstr "Imagen del botón"
+
+#: public/views/closeSettingsView.php:141
+msgid "Bottom"
+msgstr "Inferior"
+
+#: public/views/closeSettingsView.php:132
+msgid "Right"
+msgstr "Derecha"
+
+#: public/views/closeSettingsView.php:115
+msgid "Button position"
+msgstr "Posición del botón"
+
+#: public/views/closeSettingsView.php:108
+msgid "Specify the time (in seconds) after which the close button will appear. The close button will be shown by default without any delay if no time is specified."
+msgstr "Especifica el tiempo (en segundos) después del que aparecerá el botón de cierre. El botón de cierre se mostrará por defecto sin ningún retraso si no se especifica el tiempo."
+
+#: public/views/closeSettingsView.php:100
+msgid "Button delay"
+msgstr "Retraso del botón"
+
+#: public/views/closeSettingsView.php:92
+msgid "Uncheck this option if you don't want to show a \"close\" button on your popup."
+msgstr "Desmarca esta opción si no quieres mostrar un botón «cerrar» en tu mensaje emergente."
+
+#: public/views/closeSettingsView.php:80
+msgid "Show \"close\" button"
+msgstr "Mostrar el botón «cerrar»"
+
+#: public/views/closeSettingsView.php:72
+msgid "The popup will close if the \"Esc\" key of your keyboard is clicked."
+msgstr "El mensaje emergente se cerrará si se presiona la tecla «Esc» de tu teclado."
+
+#: public/views/closeSettingsView.php:60
+msgid "Dismiss on \"esc\" key"
+msgstr "Descartar al presionar la tecla «Esc»"
+
+#: public/views/main/image.php:9
+msgid "Please choose your picture"
+msgstr "Por favor, elige tu foto"
+
+#: public/views/subscribers.php:122
+msgid "Add to list"
+msgstr "Añadir a la lista"
+
+#: public/views/subscribers.php:113
+msgid "Invalid email address"
+msgstr "Dirección de correo electrónico no válida"
+
+#: public/views/subscribers.php:109
+msgid "Subscription is not selected"
+msgstr "La suscripción no está seleccionada"
+
+#: public/views/subscribers.php:99
+msgid "Error occurred: could not add subscriber."
+msgstr "Ha ocurrido un error: no se pudo añadir el suscriptor."
+
+#: public/views/subscribers.php:145
+msgid "Select file"
+msgstr "Seleccionar archivo"
+
+#: public/views/subscribers.php:137
+msgid "Import Subscribers from csv file:"
+msgstr "Importar suscriptores desde un archivo csv:"
+
+#: public/views/subscribers.php:21 public/views/subscribers.php:131
+msgid "Select subscription(s):"
+msgstr "Seleccionar suscripción(es):"
+
+#: com/classes/dataTable/Subscribers.php:201
+msgid "Delete subscriber(s)"
+msgstr "Eliminar suscriptor(es)"
+
+#: public/views/subscribers.php:66
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: public/views/mainActionButtons.php:16 public/views/subscribers.php:70
+msgid "Export"
+msgstr "Exportar"
+
+#: public/views/mainActionButtons.php:21 public/views/subscribers.php:75
+#: public/views/subscribers.php:151
+msgid "Import"
+msgstr "Importar"
+
+#: public/views/subscribers.php:47
+msgid "Subscribers"
+msgstr "Suscriptores"
+
+#: public/views/newsletter.php:113
+msgid "Custom fields' shortcodes"
+msgstr "Shortcodes de campos personalizados"
+
+#: public/views/newsletter.php:108
+msgid "Your user name"
+msgstr "Tu nombre de usuario"
+
+#: public/views/newsletter.php:107
+msgid "Your blog name"
+msgstr "El nombre de tu blog"
+
+#: public/views/newsletter.php:106
+msgid "Subscriber Last name"
+msgstr "Apellido del suscriptor"
+
+#: public/views/newsletter.php:105
+msgid "Subscriber First name"
+msgstr "Nombre del suscriptor"
+
+#: public/views/newsletter.php:103
+msgid "Default shortcodes"
+msgstr "Shortcodes por defecto"
+
+#: public/views/newsletter.php:101
+msgid "Newsletter Shortcodes"
+msgstr "Shortcodes del boletín"
+
+#: public/views/newsletter.php:93
+msgid "Send newsletter"
+msgstr "Enviar el boletín"
+
+#: public/views/newsletter.php:61
+msgid "Edit newsletter email template below"
+msgstr "Edita a continuación la plantilla de correo electrónico del boletín"
+
+#: public/views/newsletter.php:56
+msgid "Your subject here"
+msgstr "Tu asunto aquí"
+
+#: public/views/newsletter.php:55
+msgid "Email's subject"
+msgstr "Asunto del correo electrónico"
+
+#: public/views/newsletter.php:51
+msgid "From email"
+msgstr "Correo electrónico del remitente"
+
+#: public/views/newsletter.php:47
+msgid "Emails to send in one flow per 1 minute"
+msgstr "Cantidad de correos electrónicos a enviar en un flujo por 1 minuto"
+
+#: public/views/newsletter.php:42
+msgid "Choose the popup"
+msgstr "Cerrar el mensaje emergente"
+
+#: public/views/newsletter.php:33
+msgid "You will receive an email notification after all emails are sent"
+msgstr "Recibirás un aviso por correo electrónico después de que se envíen todos los correos electrónicos."
+
+#: public/views/newsletter.php:37
+msgid "Newsletter settings"
+msgstr "Ajustes del boletín"
+
+#: public/views/mediaButton.php:21
+msgid "Insert the [shortcode]"
+msgstr "Insertar el [shortcode]"
+
+#: com/helpers/AdminHelper.php:988
+msgid "Rate Us"
+msgstr "Valóranos"
+
+#: com/classes/Filters.php:805
+msgid "Status"
+msgstr "Estado"
+
+#: public/views/license.php:46
+msgid "Activate"
+msgstr "Activar"
+
+#: public/views/license.php:41
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: public/views/license.php:32
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: public/views/otherConditionsView.php:31
+msgid "Show popup in date range"
+msgstr "Mostrar mensaje emergente en el intervalo de fechas"
+
+#: public/views/otherConditionsView.php:20
+msgid "Schedule"
+msgstr "Programar"
+
+#: public/views/settings.php:142
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: public/views/settings.php:115
+msgid "In spite of user roles the administrator always has access to the plugin."
+msgstr "A pesar de los perfiles de usuario, el administrador siempre tiene acceso al plugin."
+
+#: public/views/settings.php:110
+msgid "User role to access the plugin"
+msgstr "Perfil de usuario que puede acceder al plugin"
+
+#: public/views/settings.php:94
+msgid "All the popup data will be deleted after removing the plugin if this option is checked."
+msgstr "Si esta opción está marcada, todos los datos del mensaje emergente serán borrados después de eliminar el plugin."
+
+#: public/views/settings.php:83
+msgid "Delete popup data"
+msgstr "Borrar los datos del mensaje emergente"
+
+#: public/views/settings.php:59
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: public/views/htmlCustomButtonElement.php:189
+#: public/views/jsVariableView.php:58 public/views/mediaButton.php:48
+msgid "Insert"
+msgstr "Insertar"
+
+#: public/views/htmlCustomButtonElement.php:169
+#: public/views/options/subscription.php:297 public/views/optionsView.php:53
+msgid "Redirect to new tab"
+msgstr "Redirigir a una nueva pestaña"
+
+#: public/views/htmlCustomButtonElement.php:163
+#: public/views/options/subscription.php:293
+msgid "Redirect URL"
+msgstr "URL de redirección"
+
+#: public/views/htmlCustomButtonElement.php:152 public/views/optionsView.php:91
+msgid "Message"
+msgstr "Mensaje"
+
+#: public/views/htmlCustomButtonElement.php:143 public/views/optionsView.php:80
+msgid "Show alert"
+msgstr "Mostrar alerta"
+
+#: public/views/htmlCustomButtonElement.php:137 public/views/optionsView.php:70
+msgid "Close popup"
+msgstr "Cerrar el mensaje emergente"
+
+#: public/views/floatingButton.php:99
+#: public/views/htmlCustomButtonElement.php:131 public/views/optionsView.php:66
+msgid "Text"
+msgstr "Texto"
+
+#: public/views/htmlCustomButtonElement.php:121
+msgid "Button events"
+msgstr "Eventos del botón"
+
+#: public/views/floatingButton.php:93
+#: public/views/htmlCustomButtonElement.php:109
+#: public/views/options/subscription.php:182
+#: public/views/options/subscription.php:240
+msgid "Text color"
+msgstr "Color del texto"
+
+#: public/views/htmlCustomButtonElement.php:99
+msgid "Hover background color"
+msgstr "Color de fondo al pasar el cursor"
+
+#: public/views/floatingButton.php:87
+#: public/views/htmlCustomButtonElement.php:89
+#: public/views/options/subscription.php:170
+#: public/views/options/subscription.php:234
+msgid "Background color"
+msgstr "Color del fondo"
+
+#: public/views/floatingButton.php:80
+#: public/views/htmlCustomButtonElement.php:79
+#: public/views/options/subscription.php:176
+#: public/views/options/subscription.php:220
+msgid "Border color"
+msgstr "Color del borde"
+
+#: public/views/floatingButton.php:75
+#: public/views/htmlCustomButtonElement.php:71
+#: public/views/options/subscription.php:216
+msgid "Border radius"
+msgstr "Radio del borde"
+
+#: public/views/htmlCustomButtonElement.php:63
+#: public/views/options/subscription.php:166
+#: public/views/options/subscription.php:212
+msgid "Border width"
+msgstr "Anchura del borde"
+
+#: public/views/closeSettingsView.php:200 public/views/dimensionsView.php:32
+#: public/views/htmlCustomButtonElement.php:55
+#: public/views/options/subscription.php:161
+#: public/views/options/subscription.php:207
+msgid "Height"
+msgstr "Altura"
+
+#: public/views/dimensionsView.php:28
+#: public/views/htmlCustomButtonElement.php:47
+#: public/views/options/subscription.php:157
+#: public/views/options/subscription.php:203
+msgid "Width"
+msgstr "Anchura"
+
+#: public/views/htmlCustomButtonElement.php:42
+msgid "Custom Button Styles"
+msgstr "Estilos personalizados del botón"
+
+#: public/views/htmlCustomButtonElement.php:32
+#: public/views/options/subscription.php:226
+msgid "Title"
+msgstr "Título"
+
+#: public/views/popupDesignView.php:230
+msgid "Choose how the background image will be displayed with your content"
+msgstr "Elige cómo se mostrará la imagen de fondo con tu contenido"
+
+#: public/views/popupDesignView.php:225
+msgid "Mode"
+msgstr "Modo"
+
+#: public/views/closeSettingsView.php:178
+msgid "Remove"
+msgstr "Eliminar"
+
+#: public/views/closeSettingsView.php:173 public/views/popupDesignView.php:215
+msgid "Change image"
+msgstr "Cambiar la imagen"
+
+#: public/views/popupDesignView.php:177
+msgid "Color"
+msgstr "Color"
+
+#: public/views/popupDesignView.php:158
+msgid "Add a custom class to the content for additional customization"
+msgstr "Añadir una clase personalizada al contenido para personalizaciones adicionales"
+
+#: public/views/popupDesignView.php:153
+msgid "Content custom css class"
+msgstr "Clase CSS personalizada del contenido"
+
+#: public/views/popupDesignView.php:137 public/views/popupDesignView.php:183
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: public/views/popupDesignView.php:130
+msgid "Change color"
+msgstr "Cambiar el color"
+
+#: public/views/popupDesignView.php:125
+msgid "Add a custom class to the overlay for additional customization."
+msgstr "Añade una clase personalizada a la superposición para una personalización adicional."
+
+#: public/views/popupDesignView.php:120
+msgid "Overlay custom css class"
+msgstr "Clase CSS personalizada de la superposición"
+
+#: public/views/popupDesignView.php:89 public/views/popupDesignView.php:112
+msgid "If this option is checked, the popup will appear with an overlay."
+msgstr "Si esta opción está marcada, el mensaje emergente aparecerá con una superposición."
+
+#: public/views/popupDesignView.php:78 public/views/popupDesignView.php:101
+msgid "Enable popup overlay"
+msgstr "Activar la superposición del mensaje emergente"
+
+#: public/views/popupDesignView.php:65
+msgid "Disable popup border"
+msgstr "Desactivar el borde del mensaje emergente"
+
+#: public/views/popupDesignView.php:61
+msgid "Themes"
+msgstr "Temas"
+
+#: public/views/popupDesignView.php:54
+msgid "Increase or dicrease the value to set the priority of displaying the popup content in comparison of other elements on the page. The highest value of z-index is 2147483647."
+msgstr "Aumenta o disminuye el valor para establecer la prioridad al mostrar el contenido del mensaje emergente en comparación con otros elementos de la página. El valor más alto de «z-index» es 2147483647."
+
+#: public/views/popupDesignView.php:49
+msgid "Popup z-index"
+msgstr "z-index del mensaje emergente"
+
+#: public/views/popupDesignView.php:42
+msgid "Add some space, in pixels, around your popup content."
+msgstr "Añadir algo de espacio, en pixeles, alrededor del contenido de tu mensaje emergente."
+
+#: public/views/popupDesignView.php:36
+msgid "Padding"
+msgstr "Relleno"
+
+#: public/views/popupDesignView.php:23
+msgid "Force RTL"
+msgstr "Forzar RTL"
+
+#: public/views/importConfigView.php:69
+msgid "Our list fields"
+msgstr "Campos de nuestra lista"
+
+#: public/views/importConfigView.php:66
+msgid "Available fields"
+msgstr "Campos disponibles"
+
+#: public/views/importConfigView.php:62
+msgid "Match Your Fields"
+msgstr "Empareja tus campos"
+
+#: com/classes/dataTable/Subscribers.php:194 com/libs/Table.php:228
+msgid "Filter"
+msgstr "Filtro"
+
+#: com/classes/dataTable/Subscribers.php:190 com/libs/Table.php:222
+msgid "Filter by popup"
+msgstr "Filtrar por mensaje emergente"
+
+#: com/libs/SGPBImporter.php:1356
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Elige un archivo WXR (.xml) para subir, después haz clic en «Subir archivo» para importarlo."
+
+#: com/libs/SGPBImporter.php:1355
+msgid "Howdy!Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "¡Hola! Sube tu archivo WordPress eXtended RSS (WXR) e importaremos las entradas, páginas, comentarios, campos personalizados, categorías y etiquetas en este sitio."
+
+#. translators: new version
+#: com/libs/SGPBImporter.php:1338
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Hay disponible una nueva versión del importador. Por favor, actualiza a la versión %s para asegurar la compatibilidad con los nuevos archivos de exportación."
+
+#. translators: %s is the maximum file size allowed.
+#: com/libs/SGPBImporter.php:1148
+msgid "Remote file is too large, limit is %s"
+msgstr "El archivo remoto es demasiado grande, el límite es de %s"
+
+#: com/libs/SGPBImporter.php:1133
+msgid "Zero size file downloaded"
+msgstr "Descargado un archivo de tamaño cero"
+
+#: com/libs/SGPBImporter.php:1126
+msgid "Remote server did not respond"
+msgstr "El servidor remoto no ha respondido"
+
+#: com/libs/SGPBImporter.php:1031
+msgid "Invalid file type"
+msgstr "Tipo de archivo no válido"
+
+#: com/libs/SGPBImporter.php:1015
+msgid "Fetching attachments is not enabled"
+msgstr "La obtención de los archivos adjuntos no está activada"
+
+#. translators: menu slug
+#: com/libs/SGPBImporter.php:945
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "El elemento del menú fue omitido debido a que el menú de slug no es válido: %s"
+
+#: com/libs/SGPBImporter.php:937
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Elemento del menú omitido por no existir un slug de menú"
+
+#. translators: singular name ,post title
+#: com/libs/SGPBImporter.php:768
+msgid "Failed to import %1$s &#8220;%2$s&#8221;"
+msgstr "Error al importar %1$s &#8220;%2$s&#8221;"
+
+#. translators: singular name ,post title
+#: com/libs/SGPBImporter.php:703
+msgid "%1$s &#8220;%2$s&#8221; already exists."
+msgstr "%1$s &#8220;%2$s&#8221; ya existe."
+
+#. translators: post title, post type
+#: com/libs/SGPBImporter.php:663
+msgid "Failed to import &#8220;%1$s&#8221;: Invalid post type %2$s"
+msgstr "Error al importar &#8220;%1$s&#8221;: tipo de entrada no válido %2$s"
+
+#. translators: term taxonomy, term name
+#. translators: taxonomy type , taxonomy name
+#: com/libs/SGPBImporter.php:571 com/libs/SGPBImporter.php:804
+msgid "Failed to import %1$s %2$s"
+msgstr "Error al importar %1$s %2$s"
+
+#. translators: tag name
+#: com/libs/SGPBImporter.php:520
+msgid "Failed to import post tag %s"
+msgstr "Error al importar la etiqueta de entrada %s"
+
+#. translators: category nicename
+#: com/libs/SGPBImporter.php:475
+msgid "Failed to import category %s"
+msgstr "Error al importar la categoría %s"
+
+#. translators: author display name
+#: com/libs/SGPBImporter.php:422
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Error al crear un usuario nuevo para %s. Sus entradas se atribuirán al usuario actual."
+
+#: com/libs/SGPBImporter.php:338
+msgid "- Select -"
+msgstr "- Seleccionar -"
+
+#: com/libs/SGPBImporter.php:330
+msgid "or assign posts to an existing user:"
+msgstr "o asignar entradas a un usuario existente:"
+
+#: com/libs/SGPBImporter.php:328
+msgid "assign posts to an existing user:"
+msgstr "asignar entradas al usuario existente:"
+
+#: com/libs/SGPBImporter.php:319
+msgid "as a new user:"
+msgstr "como un nuevo usuario:"
+
+#: com/libs/SGPBImporter.php:316
+msgid "or create new user with login name:"
+msgstr "o crear un usuario nuevo con nombre para iniciar sesión:"
+
+#: com/libs/SGPBImporter.php:304
+msgid "Import author:"
+msgstr "Importar autor:"
+
+#: com/libs/SGPBImporter.php:289
+msgid "Submit"
+msgstr "Enviar"
+
+#. translators: default role
+#: com/libs/SGPBImporter.php:280
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Si un usuario nuevo es creado por WordPress, se generará aleatoriamente una contraseña nueva y la función del usuario nuevo se establecerá como %s. El usuario nuevo tendrá que cambiar manualmente la información."
+
+#: com/libs/SGPBImporter.php:276
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "Para que te sea más sencillo editar y guardar el contenido importado, puedes reasignar el elemento importado a un usuario ya existente en esta red. Por ejemplo, puedes importar todas las entradas como entradas de <code>admin</code>."
+
+#: com/libs/SGPBImporter.php:275
+msgid "Assign Authors"
+msgstr "Asignar autores"
+
+#. translators: post author
+#: com/libs/SGPBImporter.php:246
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Error al importar el autor %s. Sus entradas serán atribuidas al usuario actual."
+
+#. translators: import data version
+#: com/libs/SGPBImporter.php:218
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Este archivo WXR (versión %s) puede no ser compatible con esta versión del importador. Por favor, considera actualizarlo."
+
+#. translators: export file path
+#: com/libs/SGPBImporter.php:200
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "No se pudo encontrar el archivo exportado en <code>%s</code>. Es probable que esto haya sido causado por un problema de permisos."
+
+#: com/libs/SGPBImporter.php:170
+msgid "Have fun!"
+msgstr "¡Pásalo bien!"
+
+#: com/libs/SGPBImporter.php:170
+msgid "All done."
+msgstr "Todo hecho."
+
+#: com/libs/SGPBImporter.php:120
+msgid "The file does not exist, please try again."
+msgstr "El archivo no existe, por favor, inténtalo de nuevo."
+
+#: com/libs/SGPBImporter.php:119 com/libs/SGPBImporter.php:134
+#: com/libs/SGPBImporter.php:193 com/libs/SGPBImporter.php:198
+#: com/libs/SGPBImporter.php:209
+msgid "Sorry, there has been an error."
+msgstr "Lo siento, ha ocurrido un error."
+
+#: com/libs/ListTable.php:1026
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: com/libs/ListTable.php:813
+msgid "Last page"
+msgstr "Última página"
+
+#: com/libs/ListTable.php:803
+msgid "Next page"
+msgstr "Página siguiente"
+
+#. translators: current page,  total pages
+#: com/libs/ListTable.php:796
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s de %2$s"
+
+#: com/libs/ListTable.php:786 com/libs/ListTable.php:789
+msgid "Current Page"
+msgstr "Página actual"
+
+#: com/libs/ListTable.php:779
+msgid "Previous page"
+msgstr "Pagina anterior"
+
+#: com/libs/ListTable.php:769
+msgid "First page"
+msgstr "Primera página"
+
+#. translators: total items
+#. translators: total item, total items
+#: com/libs/ListTable.php:732 com/libs/ListTable.php:1303
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s elemento"
+msgstr[1] "%s elementos"
+
+#: com/libs/ListTable.php:651
+msgid "No approved comments"
+msgstr "No hay comentarios aprobados"
+
+#: com/libs/ListTable.php:639 com/libs/ListTable.php:651
+msgid "No comments"
+msgstr "No hay comentarios"
+
+#. translators: numner comments, numner pending comments
+#: com/libs/ListTable.php:634
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s comentario pendiente"
+msgstr[1] "%s comentarios pendientes"
+
+#. translators: numner comments, numner approved comments
+#: com/libs/ListTable.php:632
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s comentario aprobado"
+msgstr[1] "%s comentarios aprobados"
+
+#. translators: numner comments, numner approved comments
+#: com/libs/ListTable.php:630
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#. translators: 1: month name, 2: 4-digit year
+#: com/libs/ListTable.php:578
+msgid "%1$s %2$d"
+msgstr "%1$s, %2$d"
+
+#: com/classes/dataTable/Subscribers.php:192 com/libs/ListTable.php:563
+#: com/libs/Table.php:225
+msgid "Filter by date"
+msgstr "Filtrar por fecha"
+
+#: com/libs/ListTable.php:508 com/libs/ListTable.php:1277
+msgid "Show more details"
+msgstr "Mostrar más detalles"
+
+#: com/libs/ListTable.php:458
+msgid "Apply"
+msgstr "Aplicar "
+
+#: com/libs/ListTable.php:448
+msgid "Bulk Actions"
+msgstr "Acciones en lote"
+
+#: com/libs/ListTable.php:446
+msgid "Select bulk action"
+msgstr "Seleccionar la acción en lote"
+
+#: com/libs/ListTable.php:321 com/libs/Table.php:294
+msgid "No items found."
+msgstr "No se han encontrado elementos."
+
+#: com/libs/ListTable.php:147
+msgid "Excerpt View"
+msgstr "Vista del extracto"
+
+#: com/libs/ListTable.php:146
+msgid "List View"
+msgstr "Vista de lista"
+
+#: com/libs/parsers.php:96 com/libs/parsers.php:101 com/libs/parsers.php:331
+#: com/libs/parsers.php:536
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Esto no parece ser un archivo WXR, falta o no es válido el número de la versión WXR"
+
+#: com/libs/parsers.php:45
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Los detalles se muestran arriba. El importador lo intentará nuevamente con un analizador diferente..."
+
+#: com/libs/parsers.php:44 com/libs/parsers.php:84 com/libs/parsers.php:92
+msgid "There was an error when reading this WXR file"
+msgstr "Se ha producido un error al leer el archivo WXR"
+
+#: com/classes/extension/SgpbPopupExtension.php:90
+msgid "Click me"
+msgstr "Haz clic aquí"
+
+#: com/classes/extension/SgpbPopupExtension.php:86
+msgid "Show Description"
+msgstr "Mostrar la descripción"
+
+#: com/classes/extension/SgpbPopupExtension.php:85
+msgid "Show Title"
+msgstr "Mostrar el título"
+
+#: com/classes/extension/SgpbPopupExtension.php:84
+msgid "Form"
+msgstr "Formulario"
+
+#: com/classes/extension/SgpbPopupExtension.php:83
+msgid "Form Settings"
+msgstr "Ajustes del formulario"
+
+#: com/classes/extension/SgpbPopupExtension.php:82
+msgid "Select Popup"
+msgstr "Seleccionar el mensaje emergente"
+
+#: com/classes/extension/SgpbPopupExtension.php:81
+msgid "form"
+msgstr "formulario"
+
+#: com/classes/extension/SgpbPopupExtension.php:80
+msgid "Select and display one of your forms."
+msgstr "Selecciona y muestra uno de tus formularios."
+
+#: com/classes/extension/SgpbPopupExtension.php:79
+msgid "WPForms"
+msgstr "WPForms"
+
+#: com/classes/extension/SgpbPopupExtension.php:77
+msgid "This block will help you to add Popup Builder’s shortcode inside the page content"
+msgstr "Este bloque te ayudará a añadir el shortcode de «Popup Builder» dentro del contenido de la página"
+
+#: com/classes/dataTable/Subscribers.php:153 com/libs/ListTable.php:565
+msgid "All dates"
+msgstr "Todas las fechas"
+
+#: com/classes/dataTable/Subscribers.php:110
+msgid "All"
+msgstr "Todos"
+
+#: com/classes/dataTable/Subscribers.php:41
+msgid "Popup"
+msgstr "Mensaje emergente"
+
+#: com/classes/dataTable/Subscribers.php:40
+#: com/classes/dataTable/Subscribers.php:165
+msgid "Date"
+msgstr "Fecha"
+
+#: com/classes/dataTable/Subscribers.php:39 com/helpers/AdminHelper.php:992
+#: public/views/subscribers.php:111
+msgid "Email"
+msgstr "Correo eletrónico"
+
+#: com/classes/MediaButton.php:116
+msgid "Insert popup"
+msgstr "Insertar el mensaje emergente"
+
+#: com/classes/MediaButton.php:65
+msgid "Insert custom JS variable"
+msgstr "Insertar la variable JS personalizada"
+
+#: com/classes/ConditionCreator.php:552 public/views/importConfigView.php:94
+msgid "Save"
+msgstr "Guardar"
+
+#: com/classes/ConditionCreator.php:551
+#: public/views/htmlCustomButtonElement.php:192
+#: public/views/jsVariableView.php:61 public/views/mediaButton.php:51
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: com/classes/ConditionCreator.php:522
+msgid "No Data"
+msgstr "No hay datos"
+
+#: com/classes/ConditionCreator.php:77
+msgid "OR"
+msgstr "o"
+
+#: com/classes/Updates.php:152 com/classes/Updates.php:173
+msgid "An error occurred, please try again."
+msgstr "Ha ocurrido un error, por favor, inténtalo de nuevo."
+
+#: com/classes/Updates.php:42
+msgid "License"
+msgstr "Licencia"
+
+#: com/classes/Installer.php:314
+msgid "Popup Builder License"
+msgstr "Licencia de «Popup Builder»"
+
+#: com/classes/popups/SubscriptionPopup.php:665
+msgid "no title"
+msgstr "sin título"
+
+#: com/classes/Actions.php:1513
+msgid "Popup published."
+msgstr "Mensaje emergente publicado."
+
+#: com/classes/Actions.php:1509
+msgid "Popup updated."
+msgstr "Mensaje emergente actualizado."
+
+#: com/classes/Actions.php:1338
+msgid "(clone)"
+msgstr "(clonar)"
+
+#: com/classes/Actions.php:1335
+msgid "(no title) (clone)"
+msgstr "(sin título) (clonar)"
+
+#. translators: ID of original.
+#: com/classes/Actions.php:1320
+msgid "Copy creation failed, could not find original: %d"
+msgstr "Falló la creación de la copia, no se pudo encontrar el original: %d"
+
+#: com/classes/Actions.php:1276
+msgid "No post to duplicate has been supplied!"
+msgstr "¡No se ha proporcionado ninguna entrada para duplicar!"
+
+#: com/classes/Actions.php:1194
+msgid "reset"
+msgstr "restablecer"
+
+#. translators: subscription Form Title, success Total ,total Subscribers,
+#. failed Total .
+#: com/classes/Actions.php:808
+msgid ""
+"Your mail list %1$s delivered successfully!\n"
+"\t\t\t\t\t\t%2$d of the %3$d emails succeeded, %4$d failed.\n"
+"\t\t\t\t\t\tFor more details, please download log file inside the plugin.\n"
+"\t\t\t\t\t\tThis email was generated via Popup Builder plugin."
+msgstr ""
+"Tu lista de correos electrónicos %1$s se ha enviado correctamente!\n"
+"\t\t\t\t\t\t%2$d de los %3$d correos electrónicos con éxito, %4$d han fallado.\n"
+"\t\t\t\t\t\tPara más detalles, descarga el archivo de registro en el plugin.\n"
+"\t\t\t\t\t\tEste mensaje de correo electrónico ha sido generado por el plugin «Popup Builder»."
+
+#: com/classes/Actions.php:769 com/helpers/AdminHelper.php:2155
+#: public/views/newsletter.php:109
+msgid "Unsubscribe"
+msgstr "Cancelar la suscripción"
+
+#: com/classes/Actions.php:732
+msgid "Once Every Minute"
+msgstr "Una vez cada minuto"
+
+#: com/classes/Actions.php:255
+msgid "Don't show again."
+msgstr "No mostrar de nuevo."
+
+#: com/classes/Actions.php:254
+msgid "Dismiss this notice."
+msgstr "Ignorar este aviso."
+
+#: com/classes/Filters.php:837
+msgid "Clone"
+msgstr "Clonar"
+
+#: com/classes/Filters.php:836
+msgid "Clone this item"
+msgstr "Clonar este elemento"
+
+#: com/classes/Filters.php:813
+msgid "Class"
+msgstr "Clase"
+
+#: com/classes/Filters.php:812
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: com/classes/Filters.php:803 public/views/optionsView.php:196
+#: public/views/optionsView.php:227
+msgid "Type"
+msgstr "Tipo"
+
+#: com/classes/Filters.php:804 public/views/popupOpeningCounter.php:23
+msgid "Views"
+msgstr "Vistas"
+
+#: com/classes/Filters.php:423
+msgid "UNLOCK OPTION"
+msgstr "DESBLOQUEAR LA OPCIÓN"
+
+#: com/classes/Actions.php:251 com/classes/Filters.php:342
+msgid "You have activated Popup Builder extension(s). Please, don't forget to activate the license key(s) as well."
+msgstr "Has activado la(s) extensión(es) de «Popup Builder». No olvides también activar la(s) clave(s) de licencia."
+
+#: com/classes/Actions.php:248 com/classes/Filters.php:339
+msgid "Thank you for choosing our plugin!"
+msgstr "¡Gracias por elegir nuestro plugin!"
+
+#: com/classes/Ajax.php:978
+msgid "Congrats! You have already 1 subscriber!"
+msgstr "¡Enhorabuena! ¡Ya tienes 1 suscriptor!"
+
+#: com/classes/Filters.php:205 com/classes/RegisterPostType.php:329
+#: com/classes/RegisterPostType.php:330
+msgid "Settings"
+msgstr "Ajustes"
+
+#: com/classes/RegisterPostType.php:377 com/classes/RegisterPostType.php:378
+#: public/views/newsletter.php:29
+msgid "Newsletter"
+msgstr "Boletín"
+
+#: com/classes/RegisterPostType.php:368 com/classes/RegisterPostType.php:369
+msgid "All Subscribers"
+msgstr "Todos los suscriptores"
+
+#: com/classes/RegisterPostType.php:359 com/classes/RegisterPostType.php:360
+#: public/views/mainActionButtons.php:13
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: com/classes/Filters.php:181 com/classes/RegisterPostType.php:347
+#: com/classes/RegisterPostType.php:348
+msgid "Support"
+msgstr "Soporte"
+
+#: com/classes/RegisterPostType.php:338 com/classes/RegisterPostType.php:339
+msgid "Extend"
+msgstr "Ampliar"
+
+#: com/classes/RegisterPostType.php:245
+msgid "News"
+msgstr "Noticias"
+
+#: com/classes/popups/SGPopup.php:1551 com/classes/RegisterPostType.php:209
+msgid "Popup class does not exist"
+msgstr "La clase del mensaje emergente no existe"
+
+#: com/classes/RegisterPostType.php:104
+msgid "No popups found in Trash."
+msgstr "No se han encontrado mensajes emergentes en la papelera."
+
+#: com/classes/RegisterPostType.php:103
+msgid "No popups found."
+msgstr "No se han encontrado mensajes emergentes."
+
+#: com/classes/RegisterPostType.php:102
+msgid "Parent Popups:"
+msgstr "Mensajes emergentes padre:"
+
+#: com/classes/RegisterPostType.php:100
+msgid "All Popups"
+msgstr "Todos los mensajes emergentes"
+
+#: com/classes/RegisterPostType.php:99
+msgid "View Popup"
+msgstr "Ver los mensajes emergentes"
+
+#: com/classes/RegisterPostType.php:98
+msgid "Edit Popup"
+msgstr "Editar mensaje emergente"
+
+#: com/classes/RegisterPostType.php:97
+msgid "New Popup"
+msgstr "Nuevo mensaje emergente"
+
+#: com/classes/RegisterPostType.php:96 public/views/popupTypes.php:15
+msgid "Add New Popup"
+msgstr "Añadir nuevo mensaje emergente"
+
+#: com/classes/RegisterPostType.php:95
+msgctxt "Popup"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: com/classes/RegisterPostType.php:94
+msgctxt "add new on admin bar"
+msgid "Popup"
+msgstr "Mensaje emergente"
+
+#: com/classes/RegisterPostType.php:93
+msgctxt "admin menu"
+msgid "Popup Builder"
+msgstr "Popup Builder"
+
+#: com/classes/RegisterPostType.php:92
+msgctxt "post type singular name"
+msgid "Popup"
+msgstr "Mensaje emergente"
+
+#: com/classes/RegisterPostType.php:62
+msgid "Description."
+msgstr "Descripción."
+
+#: com/helpers/ConfigDataHelper.php:1275 com/helpers/ConfigDataHelper.php:2575
+msgid "Please, publish the popup before starting to use Divi Builder with it!"
+msgstr "¡Publica el mensaje emergente antes de empezar a usar «Divi Builder» con él!"
+
+#: com/helpers/ConfigDataHelper.php:1274 com/helpers/ConfigDataHelper.php:2574
+msgid "Please, publish the popup before starting to use Elementor with it!"
+msgstr "¡Publica el mensaje emergente antes de empezar a usar «Elementor» con él!"
+
+#: com/helpers/ConfigDataHelper.php:1273 com/helpers/ConfigDataHelper.php:2573
+msgid "Only audio files supported (e.g.: mp3, wav, m4a, ogg)"
+msgstr "Solamente es compatible con archivos de audio (por ejemplo: mp3, wav, m4a, ogg)"
+
+#: com/helpers/ConfigDataHelper.php:1271 com/helpers/ConfigDataHelper.php:2571
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: com/helpers/ConfigDataHelper.php:1269 com/helpers/ConfigDataHelper.php:2569
+msgid "Only image files supported"
+msgstr "Solamente es compatible con archivos de imagen"
+
+#: com/helpers/ConfigDataHelper.php:965 com/helpers/ConfigDataHelper.php:975
+#: com/helpers/ConfigDataHelper.php:2265 com/helpers/ConfigDataHelper.php:2275
+msgid "Custom class"
+msgstr "Clase personalizada"
+
+#: com/helpers/ConfigDataHelper.php:964 com/helpers/ConfigDataHelper.php:974
+#: com/helpers/ConfigDataHelper.php:2264 com/helpers/ConfigDataHelper.php:2274
+msgid "Default"
+msgstr "Por defecto"
+
+#: com/helpers/ConfigDataHelper.php:912 com/helpers/ConfigDataHelper.php:2212
+msgid "FadeOut"
+msgstr "FadeOut"
+
+#: com/helpers/ConfigDataHelper.php:911 com/helpers/ConfigDataHelper.php:2211
+msgid "RotateOut"
+msgstr "RotateOut"
+
+#: com/helpers/ConfigDataHelper.php:909 com/helpers/ConfigDataHelper.php:2209
+msgid "SlideOutUp"
+msgstr "SlideOutUp"
+
+#: com/helpers/ConfigDataHelper.php:905 com/helpers/ConfigDataHelper.php:2205
+msgid "BounceOut"
+msgstr "BounceOut"
+
+#: com/helpers/ConfigDataHelper.php:904 com/helpers/ConfigDataHelper.php:2204
+msgid "BounceOutLeft"
+msgstr "BounceOutLeft"
+
+#: com/helpers/ConfigDataHelper.php:893 com/helpers/ConfigDataHelper.php:2193
+msgid "FadeIn"
+msgstr "FadeIn"
+
+#: com/helpers/ConfigDataHelper.php:892 com/helpers/ConfigDataHelper.php:2192
+msgid "RotateIn"
+msgstr "RotateIn"
+
+#: com/helpers/ConfigDataHelper.php:891 com/helpers/ConfigDataHelper.php:910
+#: com/helpers/ConfigDataHelper.php:2191 com/helpers/ConfigDataHelper.php:2210
+msgid "Jello"
+msgstr "Gelatina"
+
+#: com/helpers/ConfigDataHelper.php:890 com/helpers/ConfigDataHelper.php:2190
+msgid "SlideInUp"
+msgstr "SlideInUp"
+
+#: com/helpers/ConfigDataHelper.php:889 com/helpers/ConfigDataHelper.php:908
+#: com/helpers/ConfigDataHelper.php:2189 com/helpers/ConfigDataHelper.php:2208
+msgid "Tada"
+msgstr "Tachán"
+
+#: com/helpers/ConfigDataHelper.php:888 com/helpers/ConfigDataHelper.php:907
+#: com/helpers/ConfigDataHelper.php:2188 com/helpers/ConfigDataHelper.php:2207
+msgid "RubberBand"
+msgstr "RubberBand"
+
+#: com/helpers/ConfigDataHelper.php:887 com/helpers/ConfigDataHelper.php:906
+#: com/helpers/ConfigDataHelper.php:2187 com/helpers/ConfigDataHelper.php:2206
+msgid "Pulse"
+msgstr "Pulso"
+
+#: com/helpers/ConfigDataHelper.php:886 com/helpers/ConfigDataHelper.php:2186
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: com/helpers/ConfigDataHelper.php:885 com/helpers/ConfigDataHelper.php:2185
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: com/helpers/ConfigDataHelper.php:884 com/helpers/ConfigDataHelper.php:903
+#: com/helpers/ConfigDataHelper.php:2184 com/helpers/ConfigDataHelper.php:2203
+msgid "Bounce"
+msgstr "Rebote"
+
+#: com/helpers/ConfigDataHelper.php:883 com/helpers/ConfigDataHelper.php:902
+#: com/helpers/ConfigDataHelper.php:2183 com/helpers/ConfigDataHelper.php:2202
+msgid "Flash"
+msgstr "Flash"
+
+#: com/helpers/ConfigDataHelper.php:882 com/helpers/ConfigDataHelper.php:901
+#: com/helpers/ConfigDataHelper.php:2182 com/helpers/ConfigDataHelper.php:2201
+msgid "Swing"
+msgstr "Swing"
+
+#: com/helpers/ConfigDataHelper.php:881 com/helpers/ConfigDataHelper.php:900
+#: com/helpers/ConfigDataHelper.php:2181 com/helpers/ConfigDataHelper.php:2200
+msgid "Wobble"
+msgstr "Tambalearse"
+
+#: com/helpers/ConfigDataHelper.php:880 com/helpers/ConfigDataHelper.php:899
+#: com/helpers/ConfigDataHelper.php:2180 com/helpers/ConfigDataHelper.php:2199
+msgid "Shake"
+msgstr "Sacudir"
+
+#: com/helpers/ConfigDataHelper.php:879 com/helpers/ConfigDataHelper.php:898
+#: com/helpers/ConfigDataHelper.php:2179 com/helpers/ConfigDataHelper.php:2198
+msgid "Flip"
+msgstr "Girar"
+
+#: com/helpers/ConfigDataHelper.php:874 com/helpers/ConfigDataHelper.php:2174
+msgid "Repeat"
+msgstr "Repetir"
+
+#: com/helpers/ConfigDataHelper.php:873 com/helpers/ConfigDataHelper.php:2173
+msgid "Contain"
+msgstr "Contener"
+
+#: com/helpers/ConfigDataHelper.php:872 com/helpers/ConfigDataHelper.php:2172
+msgid "Cover"
+msgstr "Cubrir"
+
+#: com/helpers/ConfigDataHelper.php:867 com/helpers/ConfigDataHelper.php:2167
+#: public/views/htmlCustomButtonElement.php:17
+msgid "Button"
+msgstr "Botón"
+
+#: com/helpers/ConfigDataHelper.php:866 com/helpers/ConfigDataHelper.php:2166
+msgid "Button with count"
+msgstr "Botón con la cantidad"
+
+#: com/helpers/ConfigDataHelper.php:865 com/helpers/ConfigDataHelper.php:2165
+msgid "Box with count"
+msgstr "Caja con la cantidad"
+
+#: com/helpers/ConfigDataHelper.php:864 com/helpers/ConfigDataHelper.php:2164
+msgid "Standard"
+msgstr "Estándar"
+
+#: com/helpers/ConfigDataHelper.php:788 com/helpers/ConfigDataHelper.php:2088
+msgid "Inside"
+msgstr "Dentro"
+
+#: com/helpers/ConfigDataHelper.php:787 com/helpers/ConfigDataHelper.php:2087
+msgid "False"
+msgstr "Falso"
+
+#: com/helpers/ConfigDataHelper.php:786 com/helpers/ConfigDataHelper.php:2086
+msgid "True"
+msgstr "Verdadero"
+
+#: com/helpers/ConfigDataHelper.php:822 com/helpers/ConfigDataHelper.php:2122
+#: public/views/options/subscription.php:287
+msgid "Success message"
+msgstr "Mensaje de éxito"
+
+#: com/helpers/ConfigDataHelper.php:737 com/helpers/ConfigDataHelper.php:2037
+msgid "Timer"
+msgstr "Temporizador"
+
+#: com/helpers/ConfigDataHelper.php:725 com/helpers/ConfigDataHelper.php:2025
+msgid "Due Date"
+msgstr "Fecha límite"
+
+#: com/helpers/ConfigDataHelper.php:695 com/helpers/ConfigDataHelper.php:1995
+msgid "Share URL"
+msgstr "Compartir URL"
+
+#: com/helpers/ConfigDataHelper.php:683 com/helpers/ConfigDataHelper.php:1983
+msgid "Use active URL"
+msgstr "Usar URL activa"
+
+#: com/helpers/ConfigDataHelper.php:655 com/helpers/ConfigDataHelper.php:871
+#: com/helpers/ConfigDataHelper.php:878 com/helpers/ConfigDataHelper.php:897
+#: com/helpers/ConfigDataHelper.php:1955 com/helpers/ConfigDataHelper.php:2171
+#: com/helpers/ConfigDataHelper.php:2178 com/helpers/ConfigDataHelper.php:2197
+msgid "None"
+msgstr "Ninguno"
+
+#: com/helpers/ConfigDataHelper.php:654 com/helpers/ConfigDataHelper.php:1954
+msgid "Vertical"
+msgstr "Vertical"
+
+#: com/helpers/ConfigDataHelper.php:653 com/helpers/ConfigDataHelper.php:1953
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: com/helpers/ConfigDataHelper.php:652 com/helpers/ConfigDataHelper.php:1952
+msgid "Both"
+msgstr "Ambos"
+
+#: com/helpers/ConfigDataHelper.php:648 com/helpers/ConfigDataHelper.php:1948
+msgid "Sunday"
+msgstr "Domingo"
+
+#: com/helpers/ConfigDataHelper.php:647 com/helpers/ConfigDataHelper.php:1947
+msgid "Saturday"
+msgstr "Sábado"
+
+#: com/helpers/ConfigDataHelper.php:646 com/helpers/ConfigDataHelper.php:1946
+msgid "Friday"
+msgstr "Viernes"
+
+#: com/helpers/ConfigDataHelper.php:645 com/helpers/ConfigDataHelper.php:1945
+msgid "Thursday"
+msgstr "Jueves"
+
+#: com/helpers/ConfigDataHelper.php:644 com/helpers/ConfigDataHelper.php:1944
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: com/helpers/ConfigDataHelper.php:643 com/helpers/ConfigDataHelper.php:1943
+msgid "Tuesday"
+msgstr "Martes"
+
+#: com/helpers/ConfigDataHelper.php:642 com/helpers/ConfigDataHelper.php:1942
+msgid "Monday"
+msgstr "Lunes"
+
+#: com/helpers/ConfigDataHelper.php:606 com/helpers/ConfigDataHelper.php:611
+#: com/helpers/ConfigDataHelper.php:1906 com/helpers/ConfigDataHelper.php:1911
+msgid "bottom-right"
+msgstr "Inferior derecha"
+
+#: com/helpers/ConfigDataHelper.php:605 com/helpers/ConfigDataHelper.php:610
+#: com/helpers/ConfigDataHelper.php:1905 com/helpers/ConfigDataHelper.php:1910
+msgid "bottom-left"
+msgstr "Inferior izquierda"
+
+#: com/helpers/ConfigDataHelper.php:604 com/helpers/ConfigDataHelper.php:1904
+msgid "top-right"
+msgstr "Superior derecha"
+
+#: com/helpers/ConfigDataHelper.php:603 com/helpers/ConfigDataHelper.php:1903
+msgid "top-left"
+msgstr "Superior izquierda"
+
+#: com/helpers/ConfigDataHelper.php:590 com/helpers/ConfigDataHelper.php:1890
+msgid "Operating System"
+msgstr "Sistema operativo"
+
+#: com/helpers/ConfigDataHelper.php:589 com/helpers/ConfigDataHelper.php:1889
+msgid "Cookie Detection"
+msgstr "Detección de cookies"
+
+#: com/helpers/ConfigDataHelper.php:596 com/helpers/ConfigDataHelper.php:1896
+msgid "Countries"
+msgstr "Países"
+
+#: com/helpers/ConfigDataHelper.php:587 com/helpers/ConfigDataHelper.php:1887
+msgid "User Role"
+msgstr "Perfil de usuario"
+
+#: com/helpers/ConfigDataHelper.php:586 com/helpers/ConfigDataHelper.php:1886
+msgid "After x pages visit"
+msgstr "Después de x páginas visitadas"
+
+#: com/helpers/ConfigDataHelper.php:585 com/helpers/ConfigDataHelper.php:1885
+msgid "User Status"
+msgstr "Estado del usuario"
+
+#: com/helpers/ConfigDataHelper.php:584 com/helpers/ConfigDataHelper.php:1884
+msgid "Devices"
+msgstr "Dispositivos"
+
+#: com/helpers/ConfigDataHelper.php:580 com/helpers/ConfigDataHelper.php:1880
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+#: com/helpers/ConfigDataHelper.php:569 com/helpers/ConfigDataHelper.php:1869
+msgid "Auto"
+msgstr "Automático"
+
+#: com/helpers/ConfigDataHelper.php:517 com/helpers/ConfigDataHelper.php:1817
+msgid "Add your own custom dimensions for the popup to get the exact sizing for your popup"
+msgstr "Añade tus dimensiones personalizadas al mensaje emergente para obtener su tamaño exacto."
+
+#: com/helpers/ConfigDataHelper.php:516 com/helpers/ConfigDataHelper.php:1816
+msgid "Custom mode"
+msgstr "Modo personalizado"
+
+#: com/helpers/ConfigDataHelper.php:504 com/helpers/ConfigDataHelper.php:1804
+msgid "The sizes of the popup will be counted automatically, according to the content size of the popup. You can select the size in percentages, with this mode, to specify the size on the screen"
+msgstr "Los tamaños del mensaje emergente se contarán automáticamente, de acuerdo con el tamaño del contenido del mensaje emergente. Puedes seleccionar el tamaño en porcentajes, con este modo, para especificar el tamaño en la pantalla"
+
+#: com/helpers/ConfigDataHelper.php:503 com/helpers/ConfigDataHelper.php:1803
+msgid "Responsive mode"
+msgstr "Modo adaptable"
+
+#: com/helpers/ConfigDataHelper.php:473 com/helpers/ConfigDataHelper.php:857
+#: com/helpers/ConfigDataHelper.php:1773 com/helpers/ConfigDataHelper.php:2157
+msgid "Hide popup"
+msgstr "Ocultar mensaje emergente"
+
+#: com/helpers/ConfigDataHelper.php:462 com/helpers/ConfigDataHelper.php:846
+#: com/helpers/ConfigDataHelper.php:1762 com/helpers/ConfigDataHelper.php:2146
+msgid "Open popup"
+msgstr "Abrir mensaje emergente"
+
+#: com/helpers/ConfigDataHelper.php:362 com/helpers/ConfigDataHelper.php:438
+#: com/helpers/ConfigDataHelper.php:1662 com/helpers/ConfigDataHelper.php:1738
+msgid "Copy to clipboard"
+msgstr "Copiar al portapapeles"
+
+#: com/helpers/ConfigDataHelper.php:351 com/helpers/ConfigDataHelper.php:1651
+msgid "Redirect"
+msgstr "Redirigir"
+
+#: com/helpers/ConfigDataHelper.php:340 com/helpers/ConfigDataHelper.php:1640
+msgid "Close Popup"
+msgstr "Cerrar mensaje emergente"
+
+#: com/helpers/ConfigDataHelper.php:247 com/helpers/ConfigDataHelper.php:1547
+msgid "Default Template"
+msgstr "Plantilla por defecto"
+
+#: com/helpers/ConfigDataHelper.php:238 com/helpers/ConfigDataHelper.php:1538
+msgid "Archive Page"
+msgstr "Página de archivo"
+
+#: com/helpers/ConfigDataHelper.php:235 com/helpers/ConfigDataHelper.php:1535
+msgid "Shop Page"
+msgstr "Página de la tienda"
+
+#: com/helpers/ConfigDataHelper.php:233 com/helpers/ConfigDataHelper.php:1533
+msgid "404 Pages"
+msgstr "Páginas 404"
+
+#: com/helpers/ConfigDataHelper.php:232 com/helpers/ConfigDataHelper.php:1532
+msgid "Search Pages"
+msgstr "Página de búsqueda"
+
+#: com/helpers/ConfigDataHelper.php:231 com/helpers/ConfigDataHelper.php:1531
+msgid "Posts Page"
+msgstr "Página de entradas"
+
+#: com/helpers/ConfigDataHelper.php:230 com/helpers/ConfigDataHelper.php:1530
+msgid "Home Page"
+msgstr "Página de inicio"
+
+#: com/helpers/ConfigDataHelper.php:158 com/helpers/ConfigDataHelper.php:161
+#: com/helpers/ConfigDataHelper.php:1458 com/helpers/ConfigDataHelper.php:1461
+msgid "Select "
+msgstr "Seleccionar"
+
+#: com/helpers/AdminHelper.php:1360 com/helpers/ConfigDataHelper.php:795
+#: com/helpers/ConfigDataHelper.php:2095
+msgid "On hover"
+msgstr "Al pasar el cursor"
+
+#: com/helpers/AdminHelper.php:1359 com/helpers/ConfigDataHelper.php:794
+#: com/helpers/ConfigDataHelper.php:2094
+msgid "On click"
+msgstr "Al hacer clic"
+
+#: com/helpers/AdminHelper.php:1358 com/helpers/ConfigDataHelper.php:793
+#: com/helpers/ConfigDataHelper.php:2093
+msgid "On load"
+msgstr "Al cargar"
+
+#: com/helpers/AdminHelper.php:1357 com/helpers/ConfigDataHelper.php:656
+#: com/helpers/ConfigDataHelper.php:792 com/helpers/ConfigDataHelper.php:1956
+#: com/helpers/ConfigDataHelper.php:2092
+msgid "Inherit"
+msgstr "Heredado"
+
+#: com/helpers/AdminHelper.php:1356
+msgid "Select Event"
+msgstr "Seleccionar evento"
+
+#: com/helpers/AdminHelper.php:1088
+msgid "Maybe later"
+msgstr "Quizás mas tarde"
+
+#: com/helpers/AdminHelper.php:1087
+msgid "You worth it!"
+msgstr "¡Lo mereces!"
+
+#: com/helpers/AdminHelper.php:1086
+msgid "I already did"
+msgstr "Ya lo he hecho"
+
+#: com/helpers/AdminHelper.php:1083
+msgid "Have your input in the development of our plugin, and we’ll provide better conversions for your site!<br /> Leave your 5-star positive review and help us go further to the perfection!"
+msgstr "¡Participa en el desarrollo de nuestro plugin y te proporcionaremos mejores conversiones para tu sitio! <br /> ¡Deja tu valoración positiva de 5 estrellas y ayúdanos a llegar a la perfección!"
+
+#: com/helpers/AdminHelper.php:1082
+msgid "This is really great for your website score."
+msgstr "Esto es verdaderamente genial para la puntuación de tu web."
+
+#: com/helpers/AdminHelper.php:948
+msgid "Unsubscription"
+msgstr "Cancelar la suscripción"
+
+#: com/helpers/AdminHelper.php:898
+msgid "Oops, something went wrong, please try again or contact the administrator to check more info."
+msgstr "¡Vaya! Algo salió mal. Inténtalo de nuevo o comunícate con el administrador para obtener más información."
+
+#: com/helpers/AdminHelper.php:773
+msgid "A lot of changes and improvements have been made."
+msgstr "Se han realizado muchos cambios y mejoras."
+
+#: com/helpers/AdminHelper.php:772
+msgid "Popup Builder plugin has been updated to the new version 3."
+msgstr "El plugin «Popup Builder» se ha actualizado a la nueva versión 3."
+
+#: com/helpers/AdminHelper.php:696 com/helpers/AdminHelper.php:779
+msgid "Don't show again"
+msgstr "No mostrar de nuevo"
+
+#: com/helpers/AdminHelper.php:688
+msgid "The following extensions need to be updated manually"
+msgstr "Las siguientes extensiones deben actualizarse manualmente"
+
+#: com/helpers/AdminHelper.php:687
+msgid "Popup Builder plugin has been successfully updated"
+msgstr "El plugin Popup Builder se ha actualizado correctamente"
+
+#: com/config/config.php:172
+msgid "Subscription"
+msgstr "Suscripción"
+
+#: com/config/config.php:171
+msgid "Facebook"
+msgstr "Facebook"
+
+#: com/config/config.php:170
+msgid "HTML"
+msgstr "HTML"
+
+#: com/config/config.php:169 public/views/popupDesignView.php:195
+msgid "Image"
+msgstr "Imagen"
+
+#: com/classes/Actions.php:316 public/views/jsVariableView.php:34
+#: public/views/jsVariableView.php:52
+msgid "This field is required"
+msgstr "Este campo es obligatorio"
+
+#: com/classes/Actions.php:315
+msgid "There was an error while trying to send your request. Please try again"
+msgstr "Se produjo un error al intentar enviar tu solicitud. Inténtalo de nuevo"
+
+#: com/config/dataConfig.php:1008
+msgid "Exit intent"
+msgstr "Intento de salida"
+
+#: com/config/dataConfig.php:965
+msgid "Accept Terms"
+msgstr "Aceptar términos"
+
+#: com/config/dataConfig.php:960
+msgid "You have successfully subscribed to the newsletter"
+msgstr "Te has suscrito correctamente al boletín"
+
+#: com/classes/Actions.php:317 com/config/dataConfig.php:958
+msgid "Please enter a valid email address"
+msgstr "Por favor, introduce una dirección de correo electrónico válida"
+
+#: com/config/dataConfig.php:954
+msgid "Please wait..."
+msgstr "Por favor, espera..."
+
+#: com/config/dataConfig.php:953
+msgid "Subscribe"
+msgstr "Suscríbete"
+
+#: com/config/dataConfig.php:940
+msgid "This field is required."
+msgstr "Este campo es obligatorio."
+
+#: com/classes/dataTable/Subscribers.php:38 com/config/dataConfig.php:938
+#: public/views/options/subscription.php:121 public/views/subscribers.php:118
+msgid "Last name"
+msgstr "Apellidos"
+
+#: com/classes/dataTable/Subscribers.php:37 com/config/dataConfig.php:935
+#: public/views/options/subscription.php:95 public/views/subscribers.php:115
+msgid "First name"
+msgstr "Nombre"
+
+#: com/config/dataConfig.php:933
+msgid "Email *"
+msgstr "Correo electrónico *"
+
+#: com/config/dataConfig.php:879
+msgid "Copied to Clipboard!"
+msgstr "¡Copiado al portapapeles!"
+
+#: com/config/dataConfig.php:831
+msgid "After how many seconds the popup should close."
+msgstr "Después de cuántos segundos debería cerrarse el mensaje emergente."
+
+#: com/config/dataConfig.php:830
+msgid "Delay"
+msgstr "Retraso"
+
+#: com/config/dataConfig.php:819
+msgid "Select the popup that should be opened."
+msgstr "Selecciona el mensaje emergente que debería abrirse."
+
+#: com/config/dataConfig.php:818 public/views/htmlCustomButtonElement.php:177
+#: public/views/mediaButton.php:30 public/views/options/subscription.php:309
+msgid "Select popup"
+msgstr "Seleccionar mensaje emergente"
+
+#: com/config/dataConfig.php:806
+msgid "Enter the URL of the page should be redirected to."
+msgstr "Introduce la URL de la página a la que debería redireccionarse."
+
+#: com/config/dataConfig.php:805 public/views/options/facebook.php:13
+#: public/views/optionsView.php:49
+msgid "URL"
+msgstr "URL"
+
+#: com/config/dataConfig.php:795
+msgid "Select what should happen after the special event."
+msgstr "Selecciona lo que debe suceder después del evento especial."
+
+#: com/config/dataConfig.php:794
+msgid "Behavior"
+msgstr "Comportamiento"
+
+#: com/config/dataConfig.php:784
+msgid "Select the special event you want to catch."
+msgstr "Selecciona el evento especial que deseas capturar."
+
+#: com/config/dataConfig.php:783
+msgid "Event"
+msgstr "Evento"
+
+#: com/config/dataConfig.php:758
+msgid "Close current popup"
+msgstr "Cerrar el mensaje emergente actual"
+
+#: com/config/dataConfig.php:757
+msgid "Open another popup"
+msgstr "Abrir otro mensaje emergente"
+
+#: com/config/dataConfig.php:756 com/helpers/ConfigDataHelper.php:450
+#: com/helpers/ConfigDataHelper.php:834 com/helpers/ConfigDataHelper.php:1750
+#: com/helpers/ConfigDataHelper.php:2134
+msgid "Redirect to URL"
+msgstr "Redirigir a la URL"
+
+#: com/config/dataConfig.php:755
+msgid "Behaviors"
+msgstr "Comportamientos"
+
+#: com/config/dataConfig.php:754
+msgid "Select behavior"
+msgstr "Seleccionar comportamiento"
+
+#: com/config/dataConfig.php:750
+msgid "Contact Form 7 submission"
+msgstr "Envío de Contact Form 7"
+
+#: com/config/dataConfig.php:749
+msgid "Special events"
+msgstr "Eventos especiales"
+
+#: com/config/dataConfig.php:748 public/views/mediaButton.php:39
+msgid "Select event"
+msgstr "Seleccionar evento"
+
+#: com/config/dataConfig.php:700
+msgid "Subscription Plus"
+msgstr "Subscription Plus"
+
+#: com/config/dataConfig.php:660
+msgid "Registration"
+msgstr "Registro"
+
+#: com/config/dataConfig.php:612
+msgid "Log In"
+msgstr "Acceder"
+
+#: com/config/dataConfig.php:516 public/views/conditionsView.php:44
+msgid "Advanced Targeting"
+msgstr "Advanced Targeting"
+
+#: com/config/dataConfig.php:652
+msgid "Recent Sales"
+msgstr "Recent Sales"
+
+#: com/config/dataConfig.php:716
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: com/config/dataConfig.php:644
+msgid "Random"
+msgstr "Random"
+
+#: com/config/dataConfig.php:540 com/config/dataConfig.php:1016
+msgid "AWeber"
+msgstr "AWeber"
+
+#: com/config/dataConfig.php:620 com/config/dataConfig.php:1012
+msgid "Mailchimp"
+msgstr "MailChimp"
+
+#: com/config/dataConfig.php:572
+msgid "Exit Intent"
+msgstr "Exit Intent"
+
+#: com/config/dataConfig.php:532 com/config/dataConfig.php:1004
+msgid "Analytics"
+msgstr "Analytics"
+
+#: com/config/dataConfig.php:508
+msgid "Advanced Closing"
+msgstr "Advanced Closing"
+
+#: com/config/dataConfig.php:684
+msgid "Scroll"
+msgstr "Scroll"
+
+#: com/config/dataConfig.php:500 com/config/dataConfig.php:1000
+msgid "AdBlock"
+msgstr "AdBlock"
+
+#: com/config/dataConfig.php:548
+msgid "Contact Form"
+msgstr "Contact Form"
+
+#: com/config/dataConfig.php:668
+msgid "Restriction"
+msgstr "Restriction"
+
+#: com/config/dataConfig.php:556
+msgid "Countdown"
+msgstr "Countdown"
+
+#: com/config/dataConfig.php:708
+msgid "Video"
+msgstr "Vídeo"
+
+#: com/config/dataConfig.php:692
+msgid "Social"
+msgstr "Social"
+
+#: com/config/dataConfig.php:596
+msgid "Iframe"
+msgstr "Iframe"
+
+#: com/config/dataConfig.php:588 public/views/conditionsView.php:17
+msgid "Geo Targeting"
+msgstr "Segmentación geográfica"
+
+#: com/config/dataConfig.php:676
+msgid "Scheduling"
+msgstr "Programación"
+
+#: com/config/dataConfig.php:564
+msgid "EDD"
+msgstr "EDD"
+
+#: com/config/dataConfig.php:636
+msgid "Push Notification"
+msgstr "Aviso inmediato"
+
+#: com/config/dataConfig.php:580
+msgid "Gamification"
+msgstr "Ludificación"
+
+#: com/config/dataConfig.php:524
+msgid "Age Restriction"
+msgstr "Restricción por edad"
+
+#: com/config/dataConfig.php:628
+msgid "PDF"
+msgstr "PDF"
+
+#: com/config/dataConfig.php:467
+msgid "Allow or Disallow popup showing for the selected conditions."
+msgstr "Permitir o no que se muestre el mensaje emergente en las condiciones seleccionadas."
+
+#: com/config/dataConfig.php:456
+msgid "Target visitors to show the popup by different conditions."
+msgstr "Visitantes objetivos a mostrar el mensaje emergente por diferentes condiciones."
+
+#: com/config/dataConfig.php:396
+msgid "This is info"
+msgstr "Esta es la información"
+
+#: com/config/dataConfig.php:385
+msgid "If this option is enabled the same popup will open up after every X seconds you have defined (after closing it)."
+msgstr "Si esta opción está activada, se abrirá el mismo mensaje emergente después de cada X segundos que hayas definido (después de cerrarlo)."
+
+#: com/config/dataConfig.php:361 com/config/dataConfig.php:374
+msgid "Add the following CSS class into your HTML element."
+msgstr "Añade la siguiente clase CSS en tu elemento HTML."
+
+#: com/config/dataConfig.php:357 com/config/dataConfig.php:370
+msgid "Please save popup to generate class name."
+msgstr "Guarda el mensaje emergente para generar el nombre de la clase."
+
+#: com/config/dataConfig.php:341 com/config/dataConfig.php:348
+msgid "Add the CSS class name of your HTML element which will trigger this popup after click."
+msgstr "Añade el nombre de la clase CSS de tu elemento HTML que activará este mensaje emergente después de hacer clic."
+
+#: com/config/dataConfig.php:323 com/config/dataConfig.php:334
+msgid "Specify the part of the page, in percentages, where the popup should appear after scrolling."
+msgstr "Especifica la parte de la página, en porcentajes, donde debe aparecer el mensaje emergente después del desplazamiento."
+
+#: com/config/dataConfig.php:312
+msgid "Specify how long the popup appearance should be delayed after loading the page (in sec)."
+msgstr "Especifica cuánto tiempo debe retrasarse la aparición del mensaje emergente después de cargar la página (en segundos)."
+
+#: com/config/dataConfig.php:309
+msgid "default custom delay will be used"
+msgstr "se utilizará el retraso personalizado predeterminado"
+
+#: com/config/dataConfig.php:305
+msgid "Select the condition for the current event."
+msgstr "Selecciona la condición para el evento actual."
+
+#: com/config/dataConfig.php:294
+msgid "Select when the popup should appear on the page."
+msgstr "Selecciona cuándo debe aparecer el mensaje emergente en la página."
+
+#: com/config/dataConfig.php:250
+msgid "On Scroll"
+msgstr "Al hacer scroll"
+
+#: com/config/dataConfig.php:249 com/config/dataConfig.php:604
+msgid "Inactivity"
+msgstr "Inactividad"
+
+#: com/config/dataConfig.php:248
+msgid "On Hover"
+msgstr "Al pasar el cursor"
+
+#: com/config/dataConfig.php:247
+msgid "On Click"
+msgstr "Al hacer clic"
+
+#: com/config/dataConfig.php:246
+msgid "Set by CSS class"
+msgstr "Establecido por clase de CSS"
+
+#: com/config/dataConfig.php:206
+msgid "Select the tags on your site for popup showing"
+msgstr "Selecciona las etiquetas en tu sitio para mostrar mensajes emergentes"
+
+#: com/config/dataConfig.php:191
+msgid "Select the page templates on which the popup will be shown."
+msgstr "Selecciona las plantillas de página en las que se mostrará el mensaje emergente."
+
+#: com/config/dataConfig.php:177
+msgid "Specify the page types where the popup will be shown."
+msgstr "Especifica los tipos de página donde se mostrará el mensaje emergente."
+
+#: com/config/dataConfig.php:163
+msgid "Select the post categories on which the popup should be shown."
+msgstr "Seleccionar las categorías de las entradas en las que se debe mostrar el mensaje emergente."
+
+#: com/config/dataConfig.php:148
+msgid "Specify the post types on your site to show the popup."
+msgstr "Especificar los tipos de contenido de tu sitio para mostrar el mensaje emergente."
+
+#: com/config/dataConfig.php:134
+msgid "Select the pages on your site where the specific popup will be shown."
+msgstr "Seleccionar las páginas de tu sitio donde se mostrará el mensaje emergente."
+
+#: com/config/dataConfig.php:121
+msgid "Select your specific posts where the popup should be shown."
+msgstr "Seleccionar las entradas donde se mostrará el mensaje emergente."
+
+#: com/config/dataConfig.php:108
+msgid "Allow or Disallow popup showing for the selected rule."
+msgstr "Permitir o no que se muestre el mensaje emergente para la regla seleccionada."
+
+#: com/config/dataConfig.php:96
+msgid "Specify where the popup should be shown on your site."
+msgstr "Especifica dónde se debe mostrar el mensaje emergente en tu sitio."
+
+#: com/config/dataConfig.php:65 com/config/dataConfig.php:434
+msgid "Is not"
+msgstr "No es"
+
+#: com/config/dataConfig.php:64 com/config/dataConfig.php:433
+msgid "Is"
+msgstr "Es"
+
+#: com/config/dataConfig.php:60 com/config/dataConfig.php:429
+msgid "Delete"
+msgstr "Borrar"
+
+#: com/config/dataConfig.php:59 com/config/dataConfig.php:428
+msgid "Add"
+msgstr "Añadir"
+
+#: com/config/dataConfig.php:54
+msgid "Selected tags"
+msgstr "Seleccionar etiquetas"
+
+#: com/config/dataConfig.php:53
+msgid "All tags"
+msgstr "Todas las etiquetas"
+
+#: com/config/dataConfig.php:50
+msgid "Page template"
+msgstr "Plantilla de página"
+
+#: com/config/dataConfig.php:49
+msgid "Page type"
+msgstr "Tipo de página"
+
+#: com/config/dataConfig.php:48
+msgid "Selected pages"
+msgstr "Seleccionar páginas "
+
+#: com/config/dataConfig.php:47
+msgid "All pages"
+msgstr "Todas las páginas"
+
+#: com/config/dataConfig.php:44
+msgid "Post category"
+msgstr "Categoría de la entrada"
+
+#: com/config/dataConfig.php:43
+msgid "Post type"
+msgstr "Tipo de contenido"
+
+#: com/config/dataConfig.php:42
+msgid "Selected posts"
+msgstr "Seleccionar entradas"
+
+#: com/config/dataConfig.php:41
+msgid "All posts"
+msgstr "Todas las entradas"
+
+#: com/config/dataConfig.php:39
+msgid "Everywhere"
+msgstr "En todos lados"
+
+#: com/config/dataConfig.php:38
+msgid "Select rule"
+msgstr "Seleccionar regla"
+
+#. Description of the plugin
+#: popup-builder.php
+msgid "The most complete popup plugin. Html, image, iframe, shortcode, video and many other popup types. Manage popup dimensions, effects, themes and more."
+msgstr "El plugin más completo de mensajes emergentes. HTML, imagen, iframe, shortcode, vídeo y muchos otros tipos de mensajes emergentes. Gestiona las dimensiones del mensaje emergente, los efectos, los temas y más."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: popup-builder.php
+msgid "https://popup-builder.com"
+msgstr "https://popup-builder.com"
+
+#: com/classes/extension/SgpbPopupExtension.php:76 com/classes/Feedback.php:107
+#: com/classes/Installer.php:312 com/helpers/AdminHelper.php:1208
+msgid "Popup Builder"
+msgstr "Popup Builder"
