@@ -1,4 +1,5 @@
 <?php
+define('WP_CACHE', true); // WP-Optimize Cache
 /**
  * The base configuration for WordPress
  *
@@ -17,23 +18,17 @@
  *
  * @package WordPress
  */
-
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'portal_infantil' );
-
 /** Database username */
 define( 'DB_USER', 'zona_infantil' );
-
 /** Database password */
 define( 'DB_PASSWORD', 'Zonainfantil2024.' );
-
 /** Database hostname */
 define( 'DB_HOST', '10.10.2.7' );
-
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
-
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 /**#@+
@@ -55,9 +50,7 @@ define( 'AUTH_SALT',        '4ihaep7okpxipk5uwueasahheiikmjdksyskvivb3t0tqzpa8mb
 define( 'SECURE_AUTH_SALT', '8mmhycwdoidr3ihygenymxdvt98ikg9w52krgpzqq9q8ez5j3ggpis3iefuexdtn' );
 define( 'LOGGED_IN_SALT',   'xdgawf5bvlwukiip628gksuav81pym35zox58cohilaidczqttcgejeu4wgfbzkp' );
 define( 'NONCE_SALT',       '0xkoimoh2dwrzab3cwwdy0oznrucvs9at9nrcbxyl1kvcye2raj2bm0ql58qaeuc' );
-
 /**#@-*/
-
 /**
  * WordPress database table prefix.
  *
@@ -65,7 +58,6 @@ define( 'NONCE_SALT',       '0xkoimoh2dwrzab3cwwdy0oznrucvs9at9nrcbxyl1kvcye2raj
  * a unique prefix. Only numbers, letters, and underscores please!
  */
 $table_prefix = 'wpns_';
-
 /**
  * For developers: WordPress debugging mode.
  *
@@ -79,33 +71,23 @@ $table_prefix = 'wpns_';
  * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
-
 /* Add any custom values between this line and the "stop editing" line. */
-
 // Activar caché
-
 // Aumentar memoria disponible para WordPress
 define('WP_MEMORY_LIMIT', '256M');
-
 // Ocultar errores y evitar mostrar advertencias en pantalla
 define('WP_DEBUG', false);
 define('WP_DEBUG_DISPLAY', false);
 define('WP_DEBUG_LOG', true);
-
 // Desactivar la edición de archivos desde el panel de WordPress
 define('DISALLOW_FILE_EDIT', true);
-
 // Forzar el uso del entorno de producción
 define('WP_ENVIRONMENT_TYPE', 'production');
-
 define('FS_METHOD', 'direct');
-
 /* That's all, stop editing! Happy publishing. */
-
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
 }
-
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
